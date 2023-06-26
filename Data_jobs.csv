@@ -1,0 +1,1133 @@
+Job_title,Company,State,City,Min_Salary,Max_Salary,Rating,Date_Posted,Valid_until,Job_Type
+Senior Data Scientist - Underwriting Algorithms,Faire,California,San Francisco,151875,170407,4.3,2020-05-06,2020-06-05,FULL_TIME
+Data Scientist,GovTech,California,San Francisco,78594,147225,3.6,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist,Triplebyte,California,San Francisco,145000,225000,3.6,2020-04-28,2020-06-05,FULL_TIME
+Data Scientist,Notion Labs,California,San Francisco,105765,142959,5.0,2020-05-04,2020-06-05,FULL_TIME
+Data Scientist,Seen by Indeed,California,San Francisco,110377,143329,0.0,2020-04-25,2020-06-05,FULL_TIME
+Senior Data Scientist,Autodesk,California,San Francisco,163578,182543,4.0,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist,Formation,California,San Francisco,119642,135250,3.1,2020-04-29,2020-06-05,FULL_TIME
+Director of Data,Strava,California,San Francisco,84400,167186,4.4,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist,Duetto,California,San Francisco,108809,173353,4.4,2020-04-24,2020-06-05,FULL_TIME
+Data Scientist,Demandbase,California,San Francisco,148171,160387,4.5,2020-04-29,2020-06-05,FULL_TIME
+Data Scientist - Financials Team,Balyasny Asset Management,California,San Francisco,175846,278436,3.8,2020-05-01,2020-06-05,FULL_TIME
+"Associate Director, Data Science",Veracyte,California,South San Francisco,105899,139956,3.5,2020-04-24,2020-06-05,FULL_TIME
+Data Scientist,Centraprise,California,Foster City,116415,143186,4.2,2020-05-02,2020-06-05,FULL_TIME
+Data Scientist,Upstart,California,San Mateo,124204,139717,4.0,2020-04-24,2020-06-05,FULL_TIME
+Data Scientist - Health Data Analytics,Nuna,California,San Francisco,123766,139185,4.2,2020-04-28,2020-06-05,FULL_TIME
+Senior Data Engineer,Scoop,California,San Francisco,131965,161310,4.7,2020-04-25,2020-06-05,FULL_TIME
+Staff Data Scientist,Strivr,California,Palo Alto,117566,188203,4.7,2020-04-30,2020-06-05,FULL_TIME
+Data Scientist,Unlearn.AI,California,San Francisco,114160,146775,5.0,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist,Turn/River Capital,California,San Francisco,110377,145200,5.0,2020-04-30,2020-06-05,FULL_TIME
+Data Scientist,University of California San Francisco,California,San Francisco,86334,138021,4.0,2020-04-29,2020-06-05,FULL_TIME
+Data Analyst - Asset Management,Maximus Real Estate Partners,California,San Francisco,111709,136321,4.3,2020-04-28,2020-06-05,FULL_TIME
+Data Engineer,Rocket Lawyer,California,San Francisco,116784,118008,3.5,2020-04-23,2020-06-05,FULL_TIME
+Data Scientist,Descript,California,San Francisco,112157,149698,4.3,2020-05-02,2020-06-05,FULL_TIME
+"Data Scientist/Engineer (R code, AWS, Big Data)",Medidata Solutions,California,San Francisco,96286,156031,4.3,2020-04-25,2020-06-05,FULL_TIME
+Data Scientist,Divvy Homes,California,San Francisco,117551,142421,0.0,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist,Ready Responders,California,San Francisco,94891,154577,4.6,2020-04-24,2020-06-05,FULL_TIME
+Data Scientist,Amazon,California,San Francisco,104205,165781,3.9,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist,MasterClass,California,San Francisco,119642,138312,3.8,2020-04-25,2020-06-05,FULL_TIME
+Data Scientist (Warehouse Automation),SoftBank Robotics,California,San Francisco,114825,153844,3.5,2020-05-06,2020-06-05,FULL_TIME
+Data Scientist,Lilt,California,San Francisco,84802,114965,3.9,2020-05-02,2020-06-05,FULL_TIME
+Data Scientist,RiskIQ,California,San Francisco,119642,138312,4.0,2020-05-05,2020-06-05,FULL_TIME
+Senior Software Engineer - Revenue Data Platform (Revenue Platform),Twitter,California,San Francisco,161055,180140,4.0,2020-04-30,2020-06-05,FULL_TIME
+Senior Data Engineer,Upwork,California,San Francisco,151646,156286,3.7,2020-05-02,2020-06-05,FULL_TIME
+Data Scientist,Brightidea,California,San Francisco,119642,138312,4.3,2020-04-24,2020-06-05,FULL_TIME
+Data Scientist,Trace Data,California,Oakland,105388,135245,3.9,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist,Nomis Solutions,California,Brisbane,118964,187172,3.8,2020-04-23,2020-06-05,FULL_TIME
+Data Scientist,Observable,California,San Francisco,110377,143329,0.0,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist,Eaze,California,San Francisco,89300,144413,3.6,2020-04-23,2020-06-05,FULL_TIME
+Data Analyst,Duetto,California,San Francisco,61655,115933,4.4,2020-04-23,2020-06-05,FULL_TIME
+Data Science Manager- Health,Twitter,California,San Francisco,171792,206772,4.0,2020-04-30,2020-06-05,FULL_TIME
+Data Scientist,Mackin,California,Menlo Park,109941,146400,3.1,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist,Appen,California,San Francisco,71317,110221,3.5,2020-04-28,2020-06-05,FULL_TIME
+Data Scientist,Schlumberger,California,Berkeley,105544,167398,3.5,2020-04-25,2020-06-05,FULL_TIME
+"Data Scientist, Machine Learning - Game Matchmaking",Roblox,California,San Mateo,105112,137701,4.4,2020-05-02,2020-06-05,FULL_TIME
+"Data Scientist, Forecasting",Geli,California,San Francisco,108867,138423,2.7,2020-05-06,2020-06-05,FULL_TIME
+"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",Genentech,California,South San Francisco,162444,186754,3.9,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist,Sartorius,California,Fremont,81531,130888,3.4,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist - Statistician,Aclima,California,San Francisco,116415,145067,4.1,2020-04-29,2020-06-05,FULL_TIME
+Senior Data Analyst,Vida (CA),California,San Francisco,96086,118639,3.2,2020-04-24,2020-06-05,FULL_TIME
+"Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG",Mentor Graphics,California,Fremont,90195,168427,4.1,2020-04-25,2020-06-05,FULL_TIME
+Data Scientist,TECHNOCRAFT Solutions,California,San Ramon,70581,107616,3.6,2020-04-28,2020-06-05,FULL_TIME
+Marketing Data Analyst,ForgeRock,California,San Francisco,70175,126786,3.8,2020-04-27,2020-06-05,FULL_TIME
+Expert Data Scientist (Flexible,PG&amp;amp;E Corporation,California,San Francisco,120706,188974,3.3,2020-05-06,2020-06-05,FULL_TIME
+"Principal Data Engineer, Data Platform & Insights",Autodesk,California,San Francisco,137948,157613,4.0,2020-04-30,2020-06-05,FULL_TIME
+Research Data Scientist,TRM Labs,California,San Francisco,105765,142959,5.0,2020-05-01,2020-06-05,FULL_TIME
+Data Analyst - Finance & Platform Analytics,Twitch,California,San Francisco,103560,121338,3.5,2020-04-24,2020-06-05,FULL_TIME
+Data Scientist,Navio,California,San Mateo,110377,145200,0.0,2020-04-29,2020-06-05,PART_TIME
+Data Scientist,Entefy,California,Palo Alto,111713,133008,4.3,2020-04-25,2020-06-05,FULL_TIME
+Data Analyst,"VDart, Inc.",California,San Francisco,54616,100599,3.9,2020-04-24,2020-06-05,FULL_TIME
+Data Analyst,Doximity,California,San Francisco,87422,100274,4.5,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist,Snowflake,California,San Mateo,121720,193713,4.0,2020-04-25,2020-06-05,FULL_TIME
+Data Scientist,Facebook,California,Fremont,110887,155985,4.4,2020-05-02,2020-06-05,FULL_TIME
+Business Intelligence - Data Analyst,Credible,California,San Francisco,46343,91856,4.3,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist,Quantifind,California,Menlo Park,136562,163387,4.3,2020-04-25,2020-06-05,FULL_TIME
+Data Analyst,Seen by Indeed,California,San Francisco,72951,110623,0.0,2020-04-25,2020-06-05,FULL_TIME
+Data Analyst,The Climate Corporation,California,San Francisco,60261,111313,3.2,2020-05-01,2020-06-05,FULL_TIME
+"Data Scientist, Relevancy Ranking Algorithms - 6 Month Contract Position",Getty Images,California,San Francisco,107496,172644,2.9,2020-04-30,2020-06-05,CONTRACTOR
+Senior Data Analyst,Demandbase,California,San Francisco,116569,160387,4.5,2020-04-23,2020-06-05,FULL_TIME
+Senior Data Engineer (Python / SQL / Informatica),Castlight Health,California,San Francisco,104992,188419,3.8,2020-05-02,2020-06-05,FULL_TIME
+Data Scientist / Engineer,TCG,California,San Francisco,79835,129728,4.9,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist - Capacity Engineering,Twitter,California,San Francisco,121232,147173,4.0,2020-04-29,2020-06-05,FULL_TIME
+Senior Data Scientist - Experimentation and Causal Inference,Twitter,California,San Francisco,168311,173459,4.0,2020-04-28,2020-06-05,FULL_TIME
+"Vice President, Biometrics and Clinical Data Management",Alector,California,South San Francisco,171476,241903,5.0,2020-04-25,2020-06-05,FULL_TIME
+Data Engineer,Seen by Indeed,California,San Francisco,100959,124595,0.0,2020-04-25,2020-06-05,FULL_TIME
+Data Scientist - Deep Learning,The Climate Corporation,California,San Francisco,129173,141871,3.2,2020-04-30,2020-06-05,FULL_TIME
+Data Journalist,Sony PlayStation,California,San Mateo,63147,84252,3.4,2020-04-29,2020-06-05,FULL_TIME
+Data Scientist - Merch Scenarios,Stitch Fix,California,San Francisco,156592,192752,3.3,2020-05-01,2020-06-05,FULL_TIME
+Data Analyst,TargetX,California,Oakland,63127,113436,3.7,2020-04-30,2020-06-05,FULL_TIME
+Lead Data Scientist,Philo,California,San Francisco,149534,187436,4.7,2020-04-30,2020-06-05,FULL_TIME
+Senior Data Scientist (Flexible,PG&amp;amp;E Corporation,California,San Francisco,134842,210433,3.3,2020-05-05,2020-06-05,FULL_TIME
+"Data Analyst, Content",The Athletic Media Company,California,San Francisco,61453,91080,4.4,2020-04-25,2020-06-05,FULL_TIME
+Data Scientist - Fraud,Stitch Fix,California,San Francisco,156592,192752,3.3,2020-05-06,2020-06-05,FULL_TIME
+Data Scientist,Sunvalleytek International Inc.,California,Fremont,80568,131337,3.7,2020-05-03,2020-06-05,FULL_TIME
+Data Scientist: Deep Learning & NLP,Allstate,California,Redwood City,100293,158142,3.4,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist / Product Analyst,ClassDojo,California,San Francisco,130122,154279,4.3,2020-04-23,2020-06-05,FULL_TIME
+Senior Data Scientist,Chime,California,San Francisco,137951,215669,4.7,2020-05-06,2020-06-05,FULL_TIME
+Data Analyst,The Voleon Group,California,Berkeley,63184,114053,4.8,2020-05-05,2020-06-05,FULL_TIME
+"Marketing Data Scientist, Ecosystem",Atlassian,California,San Francisco,137857,181221,4.3,2020-04-28,2020-06-05,FULL_TIME
+Motif Capital - Data Scientist,Motif Investing,California,San Mateo,106354,169902,2.8,2020-04-25,2020-06-05,FULL_TIME
+Data Scientist - 64922BR,Aetna,California,San Francisco,84224,134675,3.3,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist - ML Engineering,Stitch Fix,California,San Francisco,150999,241901,3.3,2020-05-06,2020-06-05,FULL_TIME
+"Data Science Engineering, Machine Learning",MuleSoft,California,San Francisco,99020,121175,4.3,2020-04-29,2020-06-05,OTHER
+Data Scientist - Stylist Algorithms,Stitch Fix,California,San Francisco,156592,192752,3.3,2020-05-06,2020-06-05,FULL_TIME
+Data Analyst – University Graduate,PayPal,California,San Francisco,85036,111102,3.8,2020-04-24,2020-06-05,FULL_TIME
+Data Scientist (Contract),"PsiNapse Technology, Ltd.",California,Oakland,116415,145067,4.6,2020-04-23,2020-06-05,CONTRACTOR
+"Data Scientist, Charging Data and Modeling",Tesla Motors,California,Palo Alto,97283,153957,3.4,2020-05-03,2020-06-05,FULL_TIME
+Senior Data Engineer,Luminar Technologies,California,Palo Alto,125822,140691,3.9,2020-05-06,2020-06-05,FULL_TIME
+Product Scientist (Data),Automattic,California,San Francisco,91694,147577,4.4,2020-05-06,2020-06-05,FULL_TIME
+Data Scientist: Spatial Temporal Data Modeler,Aclima,California,San Francisco,119856,127909,4.1,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist - Market Analysis and Strategy,Genentech,California,South San Francisco,139145,162444,3.9,2020-05-05,2020-06-05,FULL_TIME
+Senior Data Engineer,Figure Eight,California,San Francisco,129617,147726,3.9,2020-04-24,2020-06-05,FULL_TIME
+Computational Toxicologist/Data Scientist - Safety Assessment,Genentech,California,South San Francisco,103753,140532,3.9,2020-05-05,2020-06-05,FULL_TIME
+Senior Data Analyst,GSN Games,California,San Francisco,106259,132890,4.5,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist - Relocate to Washington D.C.,CIA,California,San Francisco,126320,159128,3.7,2020-05-01,2020-06-05,FULL_TIME
+Data Analyst,Edmodo,California,San Mateo,82128,115721,3.8,2020-05-05,2020-06-05,FULL_TIME
+Data Engineer,Ginger,California,San Francisco,102913,155464,4.1,2020-04-29,2020-06-05,FULL_TIME
+Senior Data Scientist - Experimentation,DocuSign,California,San Francisco,166131,166131,4.5,2020-05-06,2020-06-05,FULL_TIME
+"Senior Principal Data Scientist - Platform Applications Development, Personalized Healthcare (PHC)",Genentech,California,South San Francisco,106992,128207,3.9,2020-05-05,2020-06-05,FULL_TIME
+"Data Scientist / Data Engineer (San Francisco, CA)",Thunder,California,San Francisco,82562,109734,4.2,2020-05-06,2020-06-05,FULL_TIME
+"Senior Data Scientist - Real World Data, I2O, Personalized Healthcare (PHC)",Genentech,California,South San Francisco,162444,186754,3.9,2020-05-05,2020-06-05,FULL_TIME
+"Data Scientist, Applied Machine Learning - Bay Area",Tempus Labs,California,Redwood City,95011,119195,3.0,2020-04-25,2020-06-05,FULL_TIME
+"Data Scientist - Client Acquisitions, Visitor Experience",Stitch Fix,California,San Francisco,154074,192752,3.3,2020-04-25,2020-06-05,FULL_TIME
+Data Engineer,Allstate,California,San Francisco,97656,112456,3.4,2020-05-06,2020-06-05,FULL_TIME
+Staff Data Scientist,Slack,California,San Francisco,162015,187965,4.5,2020-05-06,2020-06-05,FULL_TIME
+Sales Finance Data Analyst,Qualys,California,Foster City,90263,117216,2.7,2020-05-02,2020-06-05,FULL_TIME
+Innovation Data Scientist,Swinerton Builders,California,Concord,106294,146553,4.1,2020-05-05,2020-06-05,FULL_TIME
+Master Data Analyst,Ghirardelli Chocolate,California,San Leandro,40816,74974,3.5,2020-05-01,2020-06-05,FULL_TIME
+Growth Scientist (Data),Automattic,California,San Francisco,91694,147577,4.4,2020-05-02,2020-06-05,FULL_TIME
+Data Analyst,Juntos,California,San Carlos,62071,94180,0.0,2020-04-30,2020-06-05,FULL_TIME
+Senior Data Scientist,Quantifind,California,Menlo Park,150691,151132,4.3,2020-05-01,2020-06-05,FULL_TIME
+Data Research Scientists,CyberCube,California,San Francisco,112235,168045,5.0,2020-04-30,2020-06-05,FULL_TIME
+Data Analyst - Community Health,Twitch,California,San Francisco,75065,136898,3.5,2020-05-02,2020-06-05,FULL_TIME
+New Graduate – Enterprise Data & Analytics – Data Science Analyst,VMware,California,Palo Alto,64728,140383,4.2,2020-04-30,2020-06-05,FULL_TIME
+"Data Scientist, Strategic Research and Analytics",Center for Sustainable,California,Oakland,95925,152004,2.7,2020-05-03,2020-06-05,FULL_TIME
+"Data Scientist, DNA Product Operations",Twist Bioscience,California,South San Francisco,127615,141537,2.6,2020-04-23,2020-06-05,FULL_TIME
+Machine Learning Engineer (Data),Automattic Inc.,California,San Francisco,102722,169761,4.4,2020-04-29,2020-06-05,FULL_TIME
+Senior Data Scientist,Meraki,California,San Francisco,182816,201878,3.6,2020-05-01,2020-06-05,FULL_TIME
+Data Scientist (Ad Operations),"Moloco, Inc.",California,Redwood City,110254,143206,4.4,2020-04-27,2020-06-05,FULL_TIME
+Data Engineer,Skupos,California,San Francisco,83068,99451,5.0,2020-04-24,2020-06-05,FULL_TIME
+"Data Science Engineering, Machine Learning",Salesforce,California,San Francisco,99020,121175,4.3,2020-04-29,2020-06-05,OTHER
+"Sr. Data Scientist - Omics and Imaging, Personalized Healthcare (PHC)",Genentech,California,South San Francisco,162444,186754,3.9,2020-05-05,2020-06-05,FULL_TIME
+"Data Scientist, Analytics",Facebook,California,Menlo Park,117464,156756,4.4,2020-05-01,2020-06-05,FULL_TIME
+Growth Data Analyst,"OKCoin USA, Inc.",California,San Francisco,75619,109435,4.8,2020-04-25,2020-06-05,FULL_TIME
+"Data Scientist, Calibra (Blockchain)",Facebook,California,Menlo Park,110887,155985,4.4,2020-05-06,2020-06-05,FULL_TIME
+Data Scientist - Planning Algorithm Controller,Stitch Fix,California,San Francisco,135715,217630,3.3,2020-05-06,2020-06-05,FULL_TIME
+Principal Data Scientist,Noblr,California,San Francisco,172401,208461,4.0,2020-04-24,2020-06-05,FULL_TIME
+Data Science Solutions Engineer,PredictHQ,California,San Francisco,82025,150513,0.0,2020-05-06,2020-06-05,FULL_TIME
+Principal Data Scientist,Windfall Data,California,San Francisco,172401,208461,0.0,2020-05-06,2020-06-05,FULL_TIME
+Senior Data Scientist,Denali Therapeutics,California,South San Francisco,149267,180823,3.7,2020-05-06,2020-06-05,FULL_TIME
+"Data Architect, Staff",Life360,California,San Francisco,152194,181709,3.9,2020-04-25,2020-06-05,FULL_TIME
+Data Analytics Program Manager,Doximity,California,San Francisco,90477,119575,4.5,2020-04-28,2020-06-05,FULL_TIME
+Data Analyst,Upstart,California,San Mateo,98222,149724,4.0,2020-05-05,2020-06-05,FULL_TIME
+Senior Data Scientist,Cogitativo,California,Berkeley,149267,180823,5.0,2020-05-01,2020-06-05,FULL_TIME
+"MD Radiologist - Imaging Data Scientist, Personalized Healthcare (PHC)",Genentech,California,South San Francisco,139145,162444,3.9,2020-05-05,2020-06-05,FULL_TIME
+Senior Frontend/Full Stack Engineer (Data Science),Nylas,California,San Francisco,116569,192885,4.9,2020-04-23,2020-06-05,FULL_TIME
+Data Analyst Contractor,Comfy,California,Oakland,82128,115721,4.3,2020-04-29,2020-06-05,CONTRACTOR
+Associate Data Scientist,Lawrence Berkeley Lab,California,Berkeley,76622,83796,4.1,2020-04-25,2020-06-05,FULL_TIME
+"Data Engineer, Analytics",Facebook,California,San Francisco,106690,178080,4.4,2020-04-28,2020-06-05,FULL_TIME
+NLP Data Scientist,Aisera,California,Palo Alto,122982,135000,4.5,2020-05-01,2020-06-05,FULL_TIME
+"Senior Data Scientist, Machine Learning (Multiple Teams)",DoorDash,California,San Francisco,104368,167338,3.9,2020-04-30,2020-06-05,FULL_TIME
+"Senior Data Scientist, Analytics (Multiple Teams)",DoorDash,California,San Francisco,171258,190895,3.9,2020-04-27,2020-06-05,FULL_TIME
+Data Engineer,Modern Health,California,San Francisco,100959,124595,5.0,2020-04-30,2020-06-05,FULL_TIME
+"Data Scientist, Machine Learning",One Concern,California,Menlo Park,105765,142959,3.7,2020-04-30,2020-06-05,FULL_TIME
+Data Engineer,Zypmedia,California,San Francisco,99278,122333,4.2,2020-05-01,2020-06-05,FULL_TIME
+Data Science,Aible,California,Foster City,105765,142959,5.0,2020-05-02,2020-06-05,FULL_TIME
+Data Scientist - Nationwide Opportunities,Amazon,California,Palo Alto,116995,150120,3.9,2020-05-01,2020-06-05,FULL_TIME
+Data Analyst,Mindlance,California,San Francisco,59374,108548,3.9,2020-05-02,2020-06-05,FULL_TIME
+Research Data Analyst,UC San Francisco,California,San Francisco,66742,95305,4.0,2020-04-29,2020-06-05,PART_TIME
+"Sr. Data Scientist - Imaging, Personalized Healthcare (PHC)",Genentech,California,South San Francisco,162444,186754,3.9,2020-05-05,2020-06-05,FULL_TIME
+"Senior Data Scientist, Machine Learning - Consumer & Merchant",DoorDash,California,San Francisco,94190,149509,3.9,2020-04-29,2020-06-05,FULL_TIME
+"Sr. Data Engineer, Marketing",Slack,California,San Francisco,135860,231534,4.5,2020-04-23,2020-06-05,FULL_TIME
+New Graduate - Enterprise Data & Analytics - Data Science Analyst,Vmware,California,Palo Alto,64728,140383,4.2,2020-05-02,2020-06-05,PART_TIME
+Data Analyst,Gateway Learning Group,California,San Francisco,50150,88457,3.6,2020-05-05,2020-06-05,FULL_TIME
+Senior Data Analyst- Product,Blue Owl,California,San Francisco,101249,132890,4.5,2020-04-30,2020-06-05,FULL_TIME
+Data Analyst,SoftBank Robotics,California,San Francisco,79462,103186,3.5,2020-04-28,2020-06-05,FULL_TIME
+Data Engineer,Survata,California,San Francisco,122157,154158,4.0,2020-05-06,2020-06-05,FULL_TIME
+Senior Data Scientist - Generalist,FortressIQ,California,San Francisco,149267,180823,5.0,2020-05-02,2020-06-05,FULL_TIME
+Data Management Engineer II,Genentech,California,South San Francisco,56410,116883,3.9,2020-05-05,2020-06-05,FULL_TIME
+Data Engineer,BlueVoyant,California,San Francisco,100959,124595,4.2,2020-04-23,2020-06-05,FULL_TIME
+"Data Scientist - Azure , Big Data, Python (Full Time Permanent JOB)","VDart, Inc.",California,San Ramon,84226,134679,3.9,2020-05-06,2020-06-05,FULL_TIME
+"Director, Data Engineering",GSN Games,California,San Francisco,100385,142606,4.5,2020-05-05,2020-06-05,FULL_TIME
+PTI Raw Materials Data Engineer / Sr. Data Engineer,Genentech,California,South San Francisco,138634,158246,3.9,2020-05-05,2020-06-05,FULL_TIME
+Senior Data Scientist,AutoGrid,California,Woodside,130639,207939,3.1,2020-05-06,2020-06-05,FULL_TIME
+Data Analytics Consultant,Frontend Arts,California,Menlo Park,80542,112071,4.5,2020-05-04,2020-06-05,FULL_TIME
+(Senior) Genetic Data Scientist - Statistical Geneticist,insitro,California,South San Francisco,149267,180823,0.0,2020-05-06,2020-06-05,FULL_TIME
+"Data Scientist /Software Engineer, Reliability Engineering",Tesla,California,Palo Alto,112564,136802,3.4,2020-04-29,2020-06-05,FULL_TIME
+Motif Capital Data Scientist,Motif Investing,California,San Mateo,115326,157639,2.8,2020-04-23,2020-06-05,FULL_TIME
+Data Engineer,"Conch Technologies, Inc",California,San Francisco,122598,159766,4.6,2020-04-30,2020-06-05,FULL_TIME
+Data Engineering Practitioner,Accenture,California,San Francisco,64209,125464,3.8,2020-04-27,2020-06-05,FULL_TIME
+Data Manager : Data Engineer,Genentech,California,South San Francisco,111187,195652,3.9,2020-05-05,2020-06-05,FULL_TIME
+Senior Data Scientist - Computer Vision,FortressIQ,California,San Francisco,149267,180823,5.0,2020-05-01,2020-06-05,FULL_TIME
+Health Services Data Scientist / Statistician,PAVIR,California,Menlo Park,62445,102321,3.1,2020-04-30,2020-06-05,FULL_TIME
+Data Engineer,Sonos,California,San Francisco,95966,124988,4.2,2020-05-05,2020-06-05,FULL_TIME
+Data Scientist - Insights Modeling,The Play Station,California,San Mateo,97620,157998,3.4,2020-04-30,2020-06-05,FULL_TIME
+Senior Data Scientist and Machine Learning Expert,Ayata,California,San Francisco,149267,180823,2.4,2020-04-24,2020-06-05,FULL_TIME
+Research Data Scientist,Facebook,California,Menlo Park,117464,156756,4.4,2020-04-24,2020-06-05,FULL_TIME
+Data Analyst (Marketing & Insurance Operations),Gabi,California,San Francisco,63178,92448,4.0,2020-04-29,2020-06-05,FULL_TIME
+Data Engineer,Ready Responders,California,San Francisco,84239,152336,4.6,2020-04-24,2020-06-05,FULL_TIME
+"Engineering Manager, Data Science",Cruise,California,San Francisco,126271,213065,3.8,2020-04-24,2020-06-05,FULL_TIME
+Senior Data Scientist,Lattice Engines,California,San Mateo,191071,196977,3.7,2020-05-02,2020-06-05,FULL_TIME
+"Data Scientist, Analytics - Payment Risk",Facebook,California,Menlo Park,117464,156756,4.4,2020-05-05,2020-06-05,FULL_TIME
+Forward Deployed Data Scientist,TRM Labs,California,San Francisco,105765,142959,5.0,2020-04-23,2020-06-05,FULL_TIME
+"Data Scientist, Analytics - Artificial Intelligence - NLP",Facebook,California,Menlo Park,110887,155985,4.4,2020-05-01,2020-06-05,FULL_TIME
+Clinical Data Operator 1,Natera,California,San Carlos,37278,70727,3.7,2020-05-01,2020-06-05,FULL_TIME
+Associate Data Analyst,DocuSign,California,San Francisco,62418,109091,4.5,2020-05-06,2020-06-05,FULL_TIME
+Data Analyst,Lorven Technologies Inc,California,San Francisco,73853,101098,4.0,2020-04-24,2020-06-05,FULL_TIME
+Data Platform Engineer,Scribd,California,San Francisco,125865,142811,4.5,2020-05-06,2020-06-05,FULL_TIME
+Data Analyst,"Milestone Technologies, Inc.",California,San Francisco,56024,104564,2.8,2020-05-05,2020-06-05,FULL_TIME
+Sr. Data Engineer,WhereTo,California,San Francisco,116887,136070,5.0,2020-05-06,2020-06-05,FULL_TIME
+Senior or Staff Data Scientist,GRAIL,California,Menlo Park,144906,176122,3.5,2020-04-30,2020-06-05,FULL_TIME
+Data Engineer,Mode Analytics,California,San Francisco,119603,141552,4.0,2020-04-29,2020-06-05,FULL_TIME
+Data Engineer,Tekreliance LLC,California,San Francisco,77449,98993,3.5,2020-05-02,2020-06-05,FULL_TIME
+Data Engineer,Sense Talent Labs,California,San Francisco,79853,121275,4.5,2020-04-30,2020-06-05,FULL_TIME
+Senior Data Engineer (Remote),vidIQ,California,San Francisco,137812,166642,5.0,2020-05-02,2020-06-05,FULL_TIME
+Part-time instructor of Statistics for Data Science and Machine Learning,Kaplan,California,San Francisco,98398,121471,3.3,2020-05-06,2020-06-05,PART_TIME
+Sr. Data Scientist - Deep Learning and NLP Expert,Allstate,California,Redwood City,111276,174539,3.4,2020-05-06,2020-06-05,FULL_TIME
+"Lead Data Analyst, BI/Visualizations",Chime,California,San Francisco,71379,130405,4.7,2020-05-06,2020-06-05,FULL_TIME
+"Principal Data Scientist - Health Economics & Real-World Evidence, Evidence for Access, USMA (POSITION IS BASED IN SSF, MAY CONSIDER REMOTE)",Genentech,California,South San Francisco,167859,222660,3.9,2020-04-30,2020-06-05,FULL_TIME
+Data Engineer,TEEMA,California,San Francisco,85704,122131,4.7,2020-05-01,2020-06-05,FULL_TIME
+Lead Data Scientist,CitiusTech,California,South San Francisco,149534,187436,3.7,2020-04-23,2020-06-05,FULL_TIME
+Data Engineer,UC San Francisco,California,San Francisco,103670,130933,4.0,2020-05-02,2020-06-05,FULL_TIME
+"Data Scientist, Gateway Analytics",Facebook,California,Menlo Park,117464,156756,4.4,2020-05-01,2020-06-05,FULL_TIME
+Software Engineer (Data Science),Unlearn.AI,California,San Francisco,103509,133579,5.0,2020-05-01,2020-06-05,FULL_TIME
+Lead Data Analyst,SoftBank Robotics,California,San Francisco,81423,118302,3.5,2020-05-06,2020-06-05,FULL_TIME
+Data Engineer - Buyer Risk,Wish,California,San Francisco,128235,223999,3.4,2020-04-23,2020-06-05,FULL_TIME
+"Data Scientist, Auction & Delivery",Facebook,California,Menlo Park,117464,156756,4.4,2020-04-29,2020-06-05,FULL_TIME
+"Data Scientist, Analytics - Messenger Ranking",Facebook,California,Menlo Park,117464,156756,4.4,2020-05-05,2020-06-05,FULL_TIME
+Data Engineer,Trianz,California,San Francisco,78846,145106,3.6,2020-05-01,2020-06-05,FULL_TIME
+Data Analyst,Amazon,California,Richmond,41120,83807,3.9,2020-04-29,2020-06-05,FULL_TIME
+"Scientist, DNA Data Storage",Twist Bioscience,California,South San Francisco,107345,129633,2.6,2020-05-06,2020-06-05,FULL_TIME
+Vitria Data Scientist,Vitria Technology,California,Menlo Park,114825,153844,3.5,2020-04-24,2020-06-05,FULL_TIME
+Production Engineer - Statistics/Data Analysis,Natera,California,San Carlos,52517,85310,3.7,2020-04-29,2020-06-05,FULL_TIME
+Senior Data Software Engineer,CrunchBase,California,San Francisco,170345,172624,4.3,2020-05-06,2020-06-05,FULL_TIME
+Data Engineer,First Republic Bank,California,San Francisco,112096,129538,3.7,2020-04-24,2020-06-05,FULL_TIME
+Data Analyst (SQL Monster!),Lemonaid Health (lemonaid.com),California,San Francisco,43211,78464,4.7,2020-05-06,2020-06-05,FULL_TIME
+Senior Software Engineer - Data Platform,Udemy,California,San Francisco,84749,164711,4.4,2020-05-01,2020-06-05,FULL_TIME
+Data Engineer II,IntelliPro Group Inc.,California,San Francisco,100553,104040,4.1,2020-04-29,2020-06-05,FULL_TIME
+Senior Data Analyst,Golden Gate University,California,San Francisco,73319,100238,3.9,2020-05-01,2020-06-05,FULL_TIME
+Clinical Data Analyst,UC San Francisco,California,San Francisco,54050,92952,4.0,2020-05-06,2020-06-05,FULL_TIME
+Data Analytics Manager (EPIC),UC San Francisco,California,San Francisco,29611,61334,4.0,2020-04-25,2020-06-05,PART_TIME
+"Data Scientist, Analytics - In-stream Ads",Facebook,California,Menlo Park,110887,155985,4.4,2020-04-24,2020-06-05,FULL_TIME
+Senior Data Scientist,Sartorius,California,Fremont,135781,165967,3.4,2020-05-05,2020-06-05,FULL_TIME
+Senior Data Analyst,Levi Strauss,California,San Francisco,114498,139680,3.7,2020-05-05,2020-06-05,PART_TIME
+Senior Data Analyst,Meraki,California,San Francisco,106351,129005,3.6,2020-05-01,2020-06-05,FULL_TIME
+Scientist I - Sample and Data Handler,Eurofins,California,Berkeley,47089,56619,3.2,2020-05-01,2020-06-05,FULL_TIME
+"Senior Product Manager, Data Science",Shell,California,San Francisco,70494,129629,4.0,2020-05-05,2020-06-05,FULL_TIME
+Sr. Data Science Manager,Udemy,California,San Francisco,174661,278501,4.4,2020-05-01,2020-06-05,FULL_TIME
+Part-time instructor of Statistics for Data Science and Machine Learning,Kaplan Test Prep,California,San Francisco,92770,121299,3.8,2020-05-05,2020-06-05,PART_TIME
+Data Analyst- Trust and Safety,Twitch,California,San Francisco,103560,121338,3.5,2020-05-02,2020-06-05,FULL_TIME
+Senior Data Engineer - Java,Plum Lending,California,San Francisco,132652,155554,4.1,2020-05-06,2020-06-05,FULL_TIME
+Big Data Engineer,Smart Deck Solutions,California,San Francisco,95919,125977,5.0,2020-05-02,2020-06-05,FULL_TIME
+Senior Data Engineer,Parkside,California,San Francisco,124778,161987,5.0,2020-05-01,2020-06-05,FULL_TIME
+Lead Big Data Engineer,Glassdoor,California,San Francisco,158396,178107,4.1,2020-04-24,2020-06-05,FULL_TIME
+"Developer Advocate, Data Science (Remote)",Databricks,California,San Francisco,34224,102583,4.8,2020-04-23,2020-06-05,FULL_TIME
+Data Analytics/ Data scientist,Sharpedge Solutions Inc,California,Menlo Park,116415,143186,4.7,2020-04-25,2020-06-05,FULL_TIME
+Manager of Data Engineering,Stitch Fix,California,San Francisco,116168,212651,3.3,2020-05-02,2020-06-05,FULL_TIME
+"Senior Software Engineer, Data",Lob,California,San Francisco,117024,228425,4.3,2020-04-25,2020-06-05,FULL_TIME
+Computer Vision Data Scientist,One Concern,California,Menlo Park,105765,142959,3.7,2020-04-25,2020-06-05,FULL_TIME
+Digital Data Visualization Designer,Ipsos,California,San Francisco,82203,90134,3.2,2020-05-06,2020-06-05,FULL_TIME
+Senior Data Science Engineer,"Arable Labs, Inc.",California,San Francisco,124778,161987,5.0,2020-05-04,2020-06-05,FULL_TIME
+Data Scientist 3,Lam Research,California,Fremont,133327,149012,3.8,2020-04-24,2020-06-05,FULL_TIME
+Engineering - Senior Data Engineer,Zapier,California,San Francisco,131565,164182,4.8,2020-04-28,2020-06-05,FULL_TIME
+"Data Scientist, Analytics - Marketplace Integrity, Reputation and Trust",Facebook,California,Menlo Park,110887,155985,4.4,2020-05-02,2020-06-05,FULL_TIME
+"Senior Data Engineer, Ad Events Platform",Reddit,California,San Francisco,120055,202553,3.8,2020-05-04,2020-06-05,FULL_TIME
+Data Engineer-Python and SQL Programming,PDDN INC.,California,San Francisco,90637,90637,5.0,2020-04-29,2020-06-05,FULL_TIME
+"Senior Software Engineer, Knowledge Platform (Data Infrastructure)",Square,California,San Francisco,106596,201962,4.0,2020-05-01,2020-06-05,FULL_TIME
+Digital Data Engineering & Analytics Manager,NTT DATA Services,California,San Francisco,104933,189033,3.3,2020-05-06,2020-06-05,FULL_TIME
+Sr Data Engineer Hadoop,NTT DATA,California,San Francisco,91839,166533,3.3,2020-05-06,2020-06-05,FULL_TIME
+"Lead Product Manager, Data Products",Samba TV,California,San Francisco,74526,137434,3.4,2020-05-05,2020-06-05,FULL_TIME
+Data Science Manager for Artificial Intelligence company,Andiamo,California,San Francisco,66543,108347,3.5,2020-04-30,2020-06-05,FULL_TIME
+"Software Engineer, Data Science CoLab",University of California San Francisco,California,San Francisco,39750,86992,4.0,2020-05-01,2020-06-05,FULL_TIME
+SAP HANA Expert/Data Modeler,Akshaya Inc,California,San Rafael,91278,151856,4.4,2020-05-05,2020-06-05,FULL_TIME
+Senior Machine Learning and AI Data Scientist,Project Ronin,California,San Mateo,149398,174588,4.9,2020-04-29,2020-06-05,FULL_TIME
+"Principal Software Engineer, Big Data Platform",Rally Health,California,San Francisco,167809,187526,3.3,2020-05-02,2020-06-05,FULL_TIME
+Clinical Research Data Coordinator,UC San Francisco,California,San Francisco,67927,98517,4.0,2020-04-30,2020-06-05,FULL_TIME
+Data Science Manager,Autodesk,California,San Francisco,168671,203651,4.0,2020-05-01,2020-06-05,FULL_TIME
+Data Engineer,Sequoia Consulting Group,California,San Mateo,85704,122131,3.9,2020-05-03,2020-06-05,FULL_TIME
+Senior Machine Learning Engineer/ Data Scientist,Eluvio,California,Albany,169281,189073,0.0,2020-04-30,2020-06-05,FULL_TIME
+Principal Data Scientist,Oracle,California,Redwood City,120055,188402,3.5,2020-04-28,2020-06-05,FULL_TIME
+Biostatistics Data Scientist,Project Ronin,California,San Mateo,130122,154279,4.9,2020-04-23,2020-06-05,FULL_TIME
+Sr. Data Science Manager - GTM Intelligence,DocuSign,California,San Francisco,190801,303637,4.5,2020-04-30,2020-06-05,FULL_TIME
+Senior Data Engineer,Afresh Technologies,California,San Francisco,124778,161987,5.0,2020-04-24,2020-06-05,FULL_TIME
+Data Scientist - Public Connections and Monetization Ecosystem,Facebook,California,Menlo Park,99098,138390,4.4,2020-05-01,2020-06-05,FULL_TIME
+Data Analyst - Consumer Experience,Sony Playstation Network,California,San Mateo,95788,169574,3.4,2020-04-25,2020-06-05,FULL_TIME
+"Postdoctoral Fellowship, Data Institute",University of San Francisco,California,San Francisco,51480,61320,4.0,2020-05-06,2020-06-05,PART_TIME
+Lead Data Scientist,Electronic Arts,California,Redwood City,168641,218213,3.9,2020-04-28,2020-06-05,FULL_TIME
+Senior Software Engineer - Data Platform,Amazon,California,San Francisco,106739,166003,3.9,2020-04-30,2020-06-05,FULL_TIME
+Computational and Data Science Research Specialist,UC San Francisco,California,San Francisco,45594,88288,4.0,2020-05-01,2020-06-05,FULL_TIME
+Senior Data Engineer,Sentry,California,San Francisco,108439,191651,3.6,2020-05-02,2020-06-05,FULL_TIME
+"Upstart - Data Scientist, Machine Learning / Deep Learning Specialist",V3 Talent Partners Inc.,California,San Carlos,110377,145200,0.0,2020-04-23,2020-06-05,FULL_TIME
+Big Data Engineer,"Conch Technologies, Inc",California,San Francisco,122598,159766,4.6,2020-04-29,2020-06-05,FULL_TIME
+"Senior Data Analyst, Sales",Flexport,California,San Francisco,70073,127482,3.5,2020-05-02,2020-06-05,FULL_TIME
+"Senior Data Engineer, ACS",PlanGrid,California,San Francisco,103144,123089,4.2,2020-05-02,2020-06-05,FULL_TIME
+SAP HANA Expert/Data Modeler,Nsight,California,Richmond,55797,97814,3.8,2020-05-04,2020-06-05,FULL_TIME
+IT Data Engineer,Stitch Fix,California,San Francisco,105982,193669,3.3,2020-05-06,2020-06-05,FULL_TIME
+Sr. Data & ML Engineer - Nationwide Opportunities,Amazon,California,San Francisco,129823,171544,3.9,2020-05-01,2020-06-05,FULL_TIME
+"Data Scientist, Analytics - Ads Infrastructure",Facebook,California,Menlo Park,117464,156756,4.4,2020-04-28,2020-06-05,FULL_TIME
+Google Cloud Data Engineer Trainer,JellyFish,California,San Francisco,78466,143572,4.0,2020-04-30,2020-06-05,FULL_TIME
+"Upstart - Data Scientist, Statistical Modeling Specialist",V3 Talent Partners Inc.,California,San Carlos,92051,125002,0.0,2020-04-23,2020-06-05,FULL_TIME
+Upstart - Data Scientist,V3 Talent Partners Inc.,California,San Carlos,110377,143329,0.0,2020-04-23,2020-06-05,FULL_TIME
+"Sr. Data Scientist, Distribution Strategy & Execution",Tesla Motors,California,Fremont,115819,182911,3.4,2020-05-03,2020-06-05,FULL_TIME
+Senior Health Data Analyst,Amino,California,San Francisco,118368,118809,4.4,2020-05-02,2020-06-05,FULL_TIME
+Senior Data Engineer,Glu Mobile,California,San Francisco,114738,136870,4.0,2020-04-30,2020-06-05,FULL_TIME
+Research Data Analyst 1,Stanford School of Medicine,California,Stanford,43304,77901,4.0,2020-04-30,2020-06-05,FULL_TIME
+Senior Data Engineer,Enlitic,California,San Francisco,137812,166642,4.8,2020-04-23,2020-06-05,FULL_TIME
+RCT Data Engineer,First Republic Bank,California,San Francisco,108881,128276,3.7,2020-04-30,2020-06-05,FULL_TIME
+"Senior/Principal, Data Engineer (Data Insights)",UnitedHealth Group,California,San Francisco,100185,169700,3.4,2020-05-01,2020-06-05,FULL_TIME
+Senior/Principal Data Engineer (Data Insights),Rally Health,California,San Francisco,160126,199880,3.3,2020-04-23,2020-06-05,FULL_TIME
+"Financial Data Analyst, Rideshare Planning and Operations",Lyft,California,San Francisco,41439,74579,3.6,2020-05-01,2020-06-05,FULL_TIME
+Senior Data Engineer,Point Banking,California,San Francisco,82129,150813,2.8,2020-04-26,2020-06-05,FULL_TIME
+Senior Data Engineer,Azlo,California,San Francisco,158305,181259,0.0,2020-04-30,2020-06-05,FULL_TIME
+Senior AI/ML Data Scientist with Extensive Industrial Experience,Ayata,California,Palo Alto,148112,173905,2.4,2020-04-24,2020-06-05,FULL_TIME
+"Data Infrastructure Engineer (Machine Learning, Spark, Flink, Data Science)",Strategi.biz,California,San Francisco,82641,124629,0.0,2020-05-02,2020-06-05,FULL_TIME
+LGBTQ+ Care Coordinator/Data Analyst RSPCT,HEALTHRIGHT 360,California,San Francisco,50102,85686,3.4,2020-05-03,2020-06-05,FULL_TIME
+CORE - Data Engineer,Logic20/20,California,San Francisco,74903,137232,3.5,2020-04-29,2020-06-05,FULL_TIME
+Senior Data Engineer,Premise,California,San Francisco,99044,131450,3.9,2020-04-29,2020-06-05,FULL_TIME
+Lead Data Scientist,Crystal Dynamics,California,Redwood City,146148,180090,3.6,2020-04-28,2020-06-05,FULL_TIME
+Senior Data Engineer,The RealReal,California,San Francisco,96103,171699,2.6,2020-05-01,2020-06-05,FULL_TIME
+Senior Data Engineer,TuneIn,California,San Francisco,130489,130489,3.3,2020-04-30,2020-06-05,FULL_TIME
+Data Analyst,"WeDriveU, Inc.",California,Burlingame,48723,86580,3.4,2020-04-29,2020-06-05,FULL_TIME
+Digital Data Engineering & Analytics Manager,"NTT DATA, Inc.",California,San Francisco,95073,174012,2.9,2020-04-25,2020-06-05,FULL_TIME
+Senior Data Engineer,My Job Tank,California,San Francisco,150000,170000,3.6,2020-05-02,2020-06-05,FULL_TIME
+Data Engineer - Relocate to Washington D.C.,CIA,California,San Francisco,109121,113507,3.7,2020-05-01,2020-06-05,FULL_TIME
+"(Senior) Data Engineer, DevOps",insitro,California,South San Francisco,124778,161987,0.0,2020-05-06,2020-06-05,FULL_TIME
+Senior Data Engineer,Handshake-Stryder,California,San Francisco,117024,208700,3.9,2020-04-24,2020-06-05,FULL_TIME
+Data Engineer,Tredence,California,San Bruno,99278,122333,3.7,2020-05-05,2020-06-05,FULL_TIME
+"Data Scientist, Distribution Strategy & Execution",Tesla Motors,California,Fremont,86950,139344,3.4,2020-05-03,2020-06-05,FULL_TIME
+Healthcare Data Analyst - Remote,Allscripts,California,San Francisco,60404,107858,3.4,2020-04-26,2020-06-05,FULL_TIME
+Senior Data Scientist 3,Oracle,California,Redwood City,123332,170012,3.5,2020-05-02,2020-06-05,FULL_TIME
+Data Engineer/Business Objects Developer,DISYS,California,San Francisco,95355,112301,3.7,2020-04-23,2020-06-05,FULL_TIME
+Data Engineer,Roblox,California,San Mateo,122048,135005,4.4,2020-05-01,2020-06-05,FULL_TIME
+Sr. Healthcare Data Analyst,SRI Tech Solutions,California,South San Francisco,100153,172577,4.7,2020-05-02,2020-06-05,FULL_TIME
+"Data Engineer with Python,DevOps,Scala,Spark",LiveMindz,California,San Francisco,105975,129478,0.0,2020-04-28,2020-06-05,FULL_TIME
+Senior Consulting Data Analyst,Kaiser Permanente,California,San Francisco,77864,91904,3.9,2020-05-01,2020-06-05,FULL_TIME
+Data & Analytics- Data Engineer,Slalom LLC.,California,San Francisco,65009,120880,4.2,2020-04-28,2020-06-05,FULL_TIME
+"Senior Data Engineer, ETL & Quality Assurance",Crunchyroll,California,San Francisco,102374,175139,3.3,2020-04-23,2020-06-05,FULL_TIME
+Data Engineer,Project Ronin,California,San Mateo,93789,125953,4.9,2020-04-29,2020-06-05,FULL_TIME
+Data Science Course Teaching Assistant,Springboard,California,San Francisco,31772,67391,4.4,2020-04-28,2020-06-05,FULL_TIME
+Data Analyst,Sunvalleytek International Inc.,California,Fremont,45551,86720,3.7,2020-05-02,2020-06-05,FULL_TIME
+Data Engineer,B-Stock Solutions,California,Belmont,120363,145993,4.4,2020-05-02,2020-06-05,FULL_TIME
+Data Engineer Manager,Womply,California,San Francisco,152164,195246,3.2,2020-04-24,2020-06-05,FULL_TIME
+Data Infrastructure Engineer - Algorithms Platform,Stitch Fix,California,San Francisco,124691,206700,3.3,2020-04-24,2020-06-05,FULL_TIME
+Senior Data Engineer,Womply,California,San Francisco,124778,124778,3.2,2020-04-29,2020-06-05,FULL_TIME
+Data Engineer,intellyk,California,San Bruno,100959,124595,3.8,2020-04-28,2020-06-05,FULL_TIME
+Data Analyst,Swinerton Builders,California,Concord,59770,77221,4.1,2020-04-29,2020-06-05,FULL_TIME
+Data Engineer,Human API,California,San Mateo,103202,137168,3.6,2020-05-02,2020-06-05,FULL_TIME
+eCom Senior Data Engineer,PepsiCo,California,San Francisco,120423,134748,3.7,2020-04-24,2020-06-05,FULL_TIME
+Data Analyst I,"Bio-Rad Laboratories, Inc.",California,Hercules,43745,76385,3.3,2020-05-06,2020-06-05,FULL_TIME
+Finance Data Analyst,DIVIDEND FINANCE LLC,California,San Francisco,48555,89837,4.7,2020-05-03,2020-06-05,FULL_TIME
+"Sr Consulting Data Analyst - SAS, R, Python",Kaiser Permanente,California,Oakland,65796,116704,3.9,2020-05-06,2020-06-05,FULL_TIME
+"Data Consultant - SAS, R, Python",Kaiser Permanente,California,Oakland,85889,125886,3.9,2020-05-06,2020-06-05,FULL_TIME
+"Senior Data Analyst, YouTube",YouTube,California,San Bruno,104265,115495,4.2,2020-05-06,2020-06-05,FULL_TIME
+Revenue Cycle Optimization Data Analyst,UCSF Medical Center,California,San Francisco,74170,96997,4.1,2020-04-28,2020-06-05,FULL_TIME
+"Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG",Siemens Healthineers,California,Fremont,74089,132235,3.9,2020-04-25,2020-06-05,FULL_TIME
+"Data Analyst - Health, Senior",Blue Shield of California,California,Oakland,73907,127074,3.9,2020-05-02,2020-06-05,FULL_TIME
+Data Engineer,Frontend Arts,California,Menlo Park,92900,125659,4.5,2020-05-04,2020-06-05,FULL_TIME
+Cloud Data Engineer,Snowflake Computing,California,San Mateo,115799,205195,4.0,2020-05-06,2020-06-05,FULL_TIME
+Flood Data Scientist: Hydrodynamics,One Concern,California,Menlo Park,105765,142959,3.7,2020-04-25,2020-06-05,FULL_TIME
+Clinical Data Analyst,Prima Medical Group,California,Novato,65009,87234,3.8,2020-05-06,2020-06-05,FULL_TIME
+Senior Data Analyst,IPSY,California,San Mateo,110441,119820,3.8,2020-04-23,2020-06-05,FULL_TIME
+Senior Data Analyst,Course Hero,California,Redwood City,115974,117734,4.7,2020-04-29,2020-06-05,FULL_TIME
+Web Data Analyst,SACC,California,San Mateo,73853,101098,4.0,2020-05-01,2020-06-05,FULL_TIME
+Data Analyst,Freedom Forever,California,Dublin,72951,110623,3.8,2020-04-27,2020-06-05,FULL_TIME
+Data Engineer,East Bay Community Energy,California,Hayward,100959,124595,0.0,2020-05-03,2020-06-05,FULL_TIME
+Senior Data Engineer - Data Analytics,Womply,California,San Francisco,124778,124778,3.2,2020-04-30,2020-06-05,FULL_TIME
+Data Engineer,Sharpedge Solutions Inc,California,Menlo Park,103202,137168,4.7,2020-04-24,2020-06-05,FULL_TIME
+Clinical Lab Scientist I Data Reviewer,Natera,California,San Carlos,64285,108387,3.7,2020-05-05,2020-06-05,FULL_TIME
+Senior Business Data Analyst,SVB Financial Group,California,San Francisco,58562,107139,3.3,2020-05-01,2020-06-05,FULL_TIME
+"Clinical Programmer or Senior Clinical Programmer , Biostatistics and Data Science Group, Evidence Generation USMA",Genentech,California,South San Francisco,102493,113865,3.9,2020-04-29,2020-06-05,FULL_TIME
+Data Analyst,The Rockridge Group,California,Concord,73853,101098,2.3,2020-04-28,2020-06-05,FULL_TIME
+"Data Processing Senior Research Scientist, OPIR",Lockheed Martin,California,Palo Alto,88309,173867,3.8,2020-04-30,2020-06-05,FULL_TIME
+Senior Software Engineer - Data and AI,Lyra Health,California,Burlingame,145090,173915,4.4,2020-05-05,2020-06-05,FULL_TIME
+Data Engineer SQL,Tesla Motors,California,Fremont,81303,147443,3.4,2020-05-03,2020-06-05,FULL_TIME
+"Senior Data Analyst, Partner Payments - Marketplace",The Walmart eCommerce Family of Brands,California,San Bruno,82903,105188,3.1,2020-05-02,2020-06-05,FULL_TIME
+"Data Engineer, Calibra (Blockchain)",Facebook,California,Menlo Park,106690,178080,4.4,2020-05-02,2020-06-05,FULL_TIME
+"Research Data Analyst (6256U) , Haas School of Business",University of California Berkeley,California,Berkeley,66091,80231,4.2,2020-04-30,2020-06-05,FULL_TIME
+Product Manager - Data Pipeline,Apixio,California,San Mateo,141056,145766,4.2,2020-05-01,2020-06-05,FULL_TIME
+"Senior Big Data Engineer @ Emeryville, California",Reveille Technologies,California,Emeryville,96816,174534,3.3,2020-04-25,2020-06-05,FULL_TIME
+Senior Data Scientist,Brinks Home Security,Texas,Dallas,81260,101976,3.4,2020-04-30,2020-06-06,FULL_TIME
+Machine Learning/Data Analyst,Applied Research Laboratories,Texas,Austin,69500,80000,3.8,2020-05-01,2020-06-06,FULL_TIME
+Insurance Data Analyst,"Applied Systems, Inc.",Texas,Austin,31518,60395,4.1,2020-05-05,2020-06-06,FULL_TIME
+Data Analyst II,"Insight Enterprises, Inc.",Texas,Plano,50099,55348,4.1,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist,Health IQ,Texas,Dallas,109021,136518,4.1,2020-05-05,2020-06-06,FULL_TIME
+"Director, Data Science",United Entertainment Group,Texas,Dallas,79409,132138,3.4,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,SciPlay,Texas,Austin,68264,85692,4.0,2020-05-01,2020-06-06,FULL_TIME
+"Predictive Data Analyst, Fundraising",Publishing Concepts,Texas,Dallas,33844,63544,3.1,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist,Seen by Indeed,Texas,Houston,82028,122822,0.0,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist 3,Zynga,Texas,Austin,132313,154929,4.0,2020-05-06,2020-06-06,FULL_TIME
+"Senior Data Scientist, Growth",Evernote,Texas,Austin,115765,137495,3.9,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Lightspeed Systems,Texas,Austin,66589,109380,4.3,2020-04-30,2020-06-06,FULL_TIME
+Senior Data Engineer,Praetorian,Texas,Austin,103931,119726,4.7,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Bakery Agency,Texas,Austin,78239,122299,4.3,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,ThoughtFocus,Texas,Dallas,73997,121211,4.0,2020-05-06,2020-06-06,FULL_TIME
+Big Data Engineer,SpringML,Texas,Austin,78544,95527,4.4,2020-04-27,2020-06-06,FULL_TIME
+Data Scientist,Home Depot,Texas,Houston,80719,141241,3.6,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Apple,Texas,Austin,82493,134126,4.1,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist,Schlumberger,Texas,Houston,85661,139929,3.5,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Aramco Services Company,Texas,Houston,97540,126319,2.1,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,iHeartMedia,Texas,San Antonio,58855,104723,3.2,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Knowesis Inc.,Texas,San Antonio,62395,87899,4.4,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist,Alaka`ina Foundation Family of Companies,Texas,San Antonio,64427,115224,3.6,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Inabia Software &amp;amp; consulting Inc.,Texas,Fort Worth,58394,101529,4.8,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist,Onica Group,Texas,Dallas,79160,103539,4.3,2020-05-02,2020-06-06,FULL_TIME
+Data Engineer,Group O,Texas,San Antonio,73976,93471,3.2,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Dun &amp;amp; Bradstreet,Texas,Austin,116800,140479,3.1,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,JPMorgan Chase,Texas,Lewisville,89157,145409,3.9,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist,Southwest Business Corporation,Texas,San Antonio,59077,100396,3.2,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist,Abbott Laboratories,Texas,Irving,69795,116321,3.5,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,"Cloudflare, Inc.",Texas,Austin,110632,177706,3.7,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist,Horne LLP,Texas,Austin,77573,106983,3.2,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Jabil,Texas,Austin,79850,102176,3.7,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist,BAE Systems USA,Texas,Fort Worth,73681,120835,3.6,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,IMG Systems,Texas,Plano,69757,120053,3.2,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist,Cottonwood Financial,Texas,Irving,59330,100534,2.6,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,CGG,Texas,Houston,81042,132098,3.6,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,Lorhan,Texas,Dallas,55812,97705,3.6,2020-04-27,2020-06-06,FULL_TIME
+Data Scientist,RMS Computer,Texas,Irving,71310,103511,3.6,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist,"Ke`aki Technologies, LLC",Texas,San Antonio,56329,94837,3.4,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist,Sercel,Texas,Houston,62195,104201,3.4,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,Cenergy International,Texas,Houston,98291,127955,3.2,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst,Care.com,Texas,Austin,54189,87842,3.8,2020-04-28,2020-06-06,FULL_TIME
+Data Science Analyst - Financial Crimes Compliance,Texas Capital Bancshares,Texas,Richardson,37745,77430,3.9,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist,Siri InfoSolutions Inc,Texas,Fort Worth,59753,102495,3.4,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist,Trinity Industries,Texas,Dallas,70894,113586,3.3,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,WorldQuant,Texas,Austin,97614,108380,3.9,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist,NTT DATA Services,Texas,Irving,95004,121011,3.3,2020-04-25,2020-06-06,FULL_TIME
+Data Engineer,Charles Schwab,Texas,Westlake,101375,119143,3.6,2020-05-02,2020-06-06,FULL_TIME
+"Data Analyst, Marketing Analytics",Zynga,Texas,Austin,53805,110087,4.0,2020-05-06,2020-06-06,FULL_TIME
+Remote Sensing Geospatial Data Scientist,Applied Research Laboratories,Texas,Austin,61656,102928,3.8,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,"Signature Science, LLC",Texas,Austin,79304,114576,3.1,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst (Product Analytics),Match,Texas,Dallas,44570,85609,3.6,2020-04-28,2020-06-06,FULL_TIME
+Data Engineer,Trace3,Texas,Houston,94290,107380,3.3,2020-05-02,2020-06-06,FULL_TIME
+Senior Data & Applied Scientist,Microsoft,Texas,Austin,24041,219176,4.3,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,Procore Technologies,Texas,Austin,83703,154153,4.2,2020-04-30,2020-06-06,FULL_TIME
+Associate Data Scientist,Levelset,Texas,Austin,54209,77372,4.1,2020-05-07,2020-06-06,FULL_TIME
+New Grad - Big Data Engineer,Allstate,Texas,Irving,71764,81129,3.4,2020-05-01,2020-06-06,FULL_TIME
+Marketing Data Analyst,Advancial Federal Credit Union,Texas,Dallas,35018,63354,4.8,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist needed - 10 positions,Kairos Technologies,Texas,Irving,73121,105189,4.1,2020-04-28,2020-06-06,FULL_TIME
+Sr. Data Scientist,Frontier Communications,Texas,Allen,97880,123465,2.4,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist / Statistician,Vinli,Texas,Dallas,73121,105189,4.6,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist (Marketing Analytics),Whole Foods Market,Texas,Austin,97505,127064,3.6,2020-04-25,2020-06-06,FULL_TIME
+Senior Data Scientist,Sense Corp,Texas,Houston,117916,131721,3.9,2020-04-28,2020-06-06,FULL_TIME
+Data Analyst,Lightspeed Systems,Texas,Austin,38230,70699,4.3,2020-05-07,2020-06-06,FULL_TIME
+"Solutions Architect, Data Scientist","Onica, a Rackspace Company",Texas,Austin,112462,201935,4.3,2020-05-07,2020-06-06,FULL_TIME
+Associate Data Scientist,Infosys,Texas,Richardson,76194,122849,3.1,2020-05-01,2020-06-06,FULL_TIME
+Senior Data Scientist,Amazon,Texas,Austin,119485,191536,3.9,2020-05-07,2020-06-06,FULL_TIME
+Competitive Intelligence/Data Scientist,LivaNova,Texas,Houston,63203,106356,3.5,2020-04-28,2020-06-06,FULL_TIME
+Senior Data Scientist,Humana,Texas,Irving,66164,111524,3.5,2020-05-07,2020-06-06,FULL_TIME
+Staff Data Scientist - Technology - Large Scale Financial Forecasting,Walmart,Texas,Plano,99868,142270,3.3,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist (Pipeline),Fannie Mae,Texas,Plano,119829,157291,3.6,2020-05-05,2020-06-06,FULL_TIME
+Federal - Data Scientist,Solekai Systems Corp,Texas,Austin,81443,131871,4.2,2020-04-28,2020-06-06,FULL_TIME
+"Product Research Data Scientist, Apple Media Products",Apple,Texas,Austin,93407,151232,4.1,2020-04-28,2020-06-06,FULL_TIME
+"Sr. Data Scientist (Dallas, TX)",Tiger Analytics,Texas,Dallas,69894,117542,4.6,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist (DoD Secret Security Clearance),ka-hoot,Texas,San Antonio,51465,104102,5.0,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist / Data Engineer,SEVEN Networks,Texas,Marshall,65984,95938,3.2,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist (5+ yrs.),Wise Men Consultants,Texas,Houston,97758,117748,2.7,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist III,Rackspace,Texas,San Antonio,67602,110329,3.4,2020-05-01,2020-06-06,FULL_TIME
+"Sr. Data Scientist (Arlington, VA)",Tiger Analytics,Texas,Arlington,69894,117542,4.6,2020-04-30,2020-06-06,FULL_TIME
+Clinical Data Operator 3,Natera,Texas,Austin,30068,48579,3.7,2020-05-02,2020-06-06,FULL_TIME
+Data Analyst,DSI Systems,Texas,Richardson,32887,61230,3.7,2020-05-07,2020-06-06,FULL_TIME
+Clinical Data Scientist - Clinical Data Management,University of Texas Medical Branch,Texas,Galveston,73320,122635,3.6,2020-05-07,2020-06-06,FULL_TIME
+Senior Segmentation Data Analyst,Acxiom,Texas,Austin,61523,72277,3.9,2020-04-29,2020-06-06,FULL_TIME
+Enterprise Data Scientist,Parkland Health and Hospital System,Texas,Dallas,42530,91499,3.5,2020-04-24,2020-06-06,FULL_TIME
+"App Store & Arcade Data Scientist, Apple Media Products",Apple,Texas,Austin,82493,134126,4.1,2020-04-28,2020-06-06,FULL_TIME
+Data Analyst,Seen by Indeed,Texas,Austin,48551,71363,0.0,2020-04-25,2020-06-06,FULL_TIME
+Pipeline Integrity - Data Scientist,Kinder Morgan,Texas,Houston,72752,121296,3.4,2020-05-05,2020-06-06,FULL_TIME
+Cloud Data Engineer,Maven Wave Partners,Texas,Austin,55033,103451,4.5,2020-05-02,2020-06-06,FULL_TIME
+Business Data Analyst I,Digital Turbine,Texas,Austin,44082,61211,3.8,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer Apprentice | Associates Degree Candidates,Digital Creative Institute,Texas,Dallas,30000,40000,4.1,2020-04-28,2020-06-06,OTHER
+Data Analyst,Hagerty Consulting,Texas,Austin,40494,91051,3.0,2020-05-06,2020-06-06,FULL_TIME
+Data Analyst,IntelliPro Group Inc.,Texas,Round Rock,34299,71537,4.1,2020-04-28,2020-06-06,FULL_TIME
+Junior Data Engineer,ISHPI Information Technologies,Texas,Austin,55392,106042,3.5,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,Seen by Indeed,Texas,Austin,77228,103289,0.0,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist - Relocate to Washington D.C.,CIA,Texas,Houston,95138,132346,3.7,2020-05-01,2020-06-06,FULL_TIME
+Federal - Data Scientist - Senior,Solekai Systems Corp,Texas,Dallas,103266,165149,4.2,2020-04-25,2020-06-06,FULL_TIME
+Data Engineer - PCCI,Parkland Health and Hospital System,Texas,Dallas,50146,96619,3.5,2020-05-05,2020-06-06,FULL_TIME
+Senior Data Engineer,Acxiom,Texas,Austin,72638,82554,3.9,2020-04-29,2020-06-06,FULL_TIME
+Senior Data Engineer/Scientist Lead - C13/VP - Irving TX -,Citi,Texas,Irving,81275,101751,3.6,2020-04-29,2020-06-06,FULL_TIME
+Senior Data Engineer/Scientist Lead - C13/VP - Irving TX -,Citibank,Texas,Irving,87666,102193,3.7,2020-04-29,2020-06-06,FULL_TIME
+Data Engineer,"American Cybersystems, Inc.",Texas,Plano,43096,79009,3.9,2020-05-07,2020-06-06,FULL_TIME
+Product Cost Data Scientist,Cloudflare,Texas,Austin,96440,120068,3.7,2020-05-01,2020-06-06,FULL_TIME
+"Data Scientist !! Fort Worth, TX !! Remote",IT First Source,Texas,Fort Worth,58197,101149,3.0,2020-05-01,2020-06-06,FULL_TIME
+Business Data Analyst,NTT DATA,Texas,Austin,46021,84959,3.3,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist (Sr.),Cyber Warrior Network,Texas,San Antonio,115922,134323,0.0,2020-04-29,2020-06-06,FULL_TIME
+Lead Data Scientist,USAA,Texas,Plano,120057,185691,3.6,2020-04-29,2020-06-06,FULL_TIME
+Sr Data Scientist,Enbridge,Texas,Houston,80375,127865,3.1,2020-04-28,2020-06-06,FULL_TIME
+Machine Learning/Data Engineer,NTT DATA Services,Texas,Irving,74648,110505,3.3,2020-04-06,2020-06-06,FULL_TIME
+"Sr Analyst, AML Data Scientist",Alliance Data,Texas,Plano,59984,126217,3.0,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer,Sense Corp,Texas,Austin,99053,119424,3.9,2020-05-06,2020-06-06,FULL_TIME
+Principal Data Scientist- Ensemble Algorithms and Architecture,Neiman Marcus,Texas,Dallas,162051,181039,3.2,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer with Pyspark,Sysmind LLC,Texas,Irving,72676,102091,4.1,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist -Clinical / NLP,AmerisourceBergen,Texas,Carrollton,51914,93505,3.0,2020-05-07,2020-06-06,FULL_TIME
+Game Data Analyst,PeopleFun,Texas,Richardson,44601,69508,5.0,2020-05-07,2020-06-06,FULL_TIME
+Data Analyst,Financial Additions,Texas,Dallas,45306,70507,4.6,2020-05-05,2020-06-06,FULL_TIME
+Data Analyst,"Conch Technologies, Inc",Texas,Plano,44601,78354,4.6,2020-04-29,2020-06-06,FULL_TIME
+"Senior Data Scientist, Online",Home Depot,Texas,Austin,113158,135883,3.6,2020-05-02,2020-06-06,FULL_TIME
+ETL Data Analyst,Sage IT Inc,Texas,Dallas,41087,75034,3.3,2020-05-07,2020-06-06,FULL_TIME
+Sr. Big Data Engineer,Allstate,Texas,Irving,99268,115530,3.4,2020-05-01,2020-06-06,FULL_TIME
+"Digital Transformation & Management, Data Analytics Consultant",Grant Thornton,Texas,Dallas,59680,80767,3.6,2020-05-07,2020-06-06,FULL_TIME
+Data Analyst,Gearbox Software,Texas,Frisco,47060,87407,3.2,2020-05-06,2020-06-06,FULL_TIME
+Director of Data Analytics,Vista Equity Partners,Texas,Dallas,95606,187677,3.8,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist / AI Engineer,Lockheed Martin,Texas,Fort Worth,66935,109284,3.8,2020-04-29,2020-06-06,FULL_TIME
+Data Engineer,Tek Leaders,Texas,Plano,73521,118121,3.5,2020-05-07,2020-06-06,FULL_TIME
+Senior Data Scientist - Technology - Large Scale Financial Forecasting,Walmart,Texas,Plano,97924,124259,3.3,2020-04-30,2020-06-06,FULL_TIME
+Data Analyst – University Graduate,PayPal,Texas,Austin,72477,90246,3.8,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer,Atos Syntel,Texas,Austin,71349,123837,3.4,2020-04-30,2020-06-06,FULL_TIME
+Data Analyst,Texas Health and Human Services Commission,Texas,Austin,56743,69498,2.7,2020-05-07,2020-06-06,PART_TIME
+Data Analyst,DISYS,Texas,Houston,47799,87592,3.7,2020-04-29,2020-06-06,FULL_TIME
+Data Engineer / Data Scientist,Inabia Software &amp;amp; consulting Inc.,Texas,Fort Worth,45043,86723,4.8,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist Lead,USAA,Texas,San Antonio,117947,149962,3.6,2020-04-29,2020-06-06,FULL_TIME
+eDiscovery Data Analyst,Servient,Texas,Houston,49965,79525,4.0,2020-04-30,2020-06-06,FULL_TIME
+Data Analyst,Horne LLP,Texas,Houston,48851,84598,3.2,2020-04-25,2020-06-06,FULL_TIME
+Innovation - Data Science Manager,PwC,Texas,Dallas,107918,116361,3.8,2020-05-01,2020-06-06,FULL_TIME
+SAS Data Scientist,VIVA USA,Texas,Houston,61860,99000,4.6,2020-05-06,2020-06-06,FULL_TIME
+Data Product Owner,Tiger Analytics,Texas,Arlington,45676,81635,4.6,2020-05-01,2020-06-06,FULL_TIME
+Big Data Engineer,ILink Systems Inc.,Texas,Dallas,53234,105269,3.9,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer (REMOTE),Avail,Texas,Houston,55730,99014,4.5,2020-05-05,2020-06-06,FULL_TIME
+"Engineer, Data",Invitation Homes,Texas,Dallas,59301,113658,3.0,2020-05-05,2020-06-06,FULL_TIME
+Senior Data Integration Engineer,Antuit,Texas,Dallas,115194,119940,4.0,2020-05-02,2020-06-06,FULL_TIME
+Data Engineer,CenterPoint Energy,Texas,Houston,64950,103449,3.7,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst,Yeti Technologies,Texas,Irving,44601,78354,0.0,2020-04-27,2020-06-06,OTHER
+Data Engineer,Amazon,Texas,Dallas,67898,108511,3.9,2020-05-01,2020-06-06,FULL_TIME
+"Associate Director, Data Science (Irving, TX, Louisville, KY or Boston, MA)",Humana,Texas,Irving,50249,105504,3.5,2020-04-29,2020-06-06,FULL_TIME
+Data Analyst IV,Superior HealthPlan,Texas,Austin,79355,133471,3.3,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst,Hayes Software Systems,Texas,Austin,44466,81687,3.3,2020-04-30,2020-06-06,FULL_TIME
+"Big Data Engineer with COBOL, PySpark",ILink Systems Inc.,Texas,Dallas,53234,105269,3.9,2020-05-07,2020-06-06,FULL_TIME
+Senior Data Analyst,ReCharge Payments,Texas,Austin,62933,108235,4.4,2020-04-25,2020-06-06,FULL_TIME
+Data Analyst (Product Analytics),Match Group,Texas,Dallas,37929,68776,2.9,2020-05-05,2020-06-06,FULL_TIME
+Junior Data Analyst,EMERGICON LLC,Texas,Forney,49716,50349,3.9,2020-04-28,2020-06-06,FULL_TIME
+Data Engineer,Intersys,Texas,Austin,77228,103289,0.0,2020-05-07,2020-06-06,FULL_TIME
+Data Analyst,911 Datamaster Inc,Texas,Austin,45694,77975,0.0,2020-04-29,2020-06-06,FULL_TIME
+Data Engineer,Janus Research Group,Texas,Austin,60772,79616,3.4,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer,Booz Allen Hamilton Inc.,Texas,San Antonio,50188,96060,3.7,2020-05-05,2020-06-06,FULL_TIME
+Data Analyst,Andiamo,Texas,Houston,36010,71564,3.5,2020-04-28,2020-06-06,FULL_TIME
+Data Analyst IV,Centene Corporation,Texas,Austin,68098,114064,3.2,2020-05-02,2020-06-06,FULL_TIME
+Data Engineer,iHeartMedia,Texas,San Antonio,75058,92531,3.2,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,NTT DATA Services,Texas,Irving,78114,141678,3.3,2020-04-30,2020-06-06,FULL_TIME
+Data Modeler,Tiger Analytics,Texas,Arlington,48482,83851,4.6,2020-05-01,2020-06-06,FULL_TIME
+Senior Data Analyst,L&amp;amp;T Infotech,Texas,Irving,47858,86476,3.5,2020-05-03,2020-06-06,FULL_TIME
+Data Engineer,Arthur Lawrence,Texas,Houston,43055,81242,4.1,2020-05-02,2020-06-06,FULL_TIME
+Data Analyst,Central Health,Texas,Austin,39778,69892,3.6,2020-04-25,2020-06-06,FULL_TIME
+Clinical Data Architect - Clinical Data Management,University of Texas Medical Branch,Texas,Galveston,71400,119080,3.6,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer,"Alpha Net Consulting, LLC",Texas,Houston,103709,123844,3.1,2020-04-29,2020-06-06,FULL_TIME
+Data Analyst II,Texas Health &amp;amp; Human Services Commission,Texas,Austin,24022,43472,2.7,2020-05-07,2020-06-06,FULL_TIME
+Data Analyst,CommUnityCare,Texas,Austin,38355,67641,3.0,2020-04-25,2020-06-06,FULL_TIME
+Data Analyst,Sphinix Solutions,Texas,Plano,44601,78354,1.0,2020-04-25,2020-06-06,FULL_TIME
+"Data Scientist, AMP Commerce/ Payments/ Subscription Analytics",Apple,Texas,Austin,89601,121045,4.1,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer - Multiple openings,Decca Consulting,Texas,Plano,62964,118003,5.0,2020-05-02,2020-06-06,FULL_TIME
+Python Data Engineer,"NRG Energy, Inc.",Texas,Houston,77467,121793,3.6,2020-04-25,2020-06-06,FULL_TIME
+Data Engineer,InfoVision Inc.,Texas,Plano,49772,95705,3.0,2020-05-01,2020-06-06,FULL_TIME
+Immediate Opening - Senior Developer / Data Engineer,Photon Infotech,Texas,Irving,87563,160928,3.0,2020-05-07,2020-06-06,FULL_TIME
+Data Analyst III,Centene Corporation,Texas,Austin,92764,95368,3.2,2020-05-06,2020-06-06,FULL_TIME
+Lead Solutions Architect - Big Data,"Onica, a Rackspace Company",Texas,Dallas,111214,207785,4.3,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer,Frontend Arts,Texas,Houston,81893,102494,4.5,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer (REMOTE),SocialChorus,Texas,Austin,85707,160765,3.7,2020-05-05,2020-06-06,FULL_TIME
+Business Data Analyst,Academic Partnerships,Texas,Dallas,51080,99680,4.0,2020-04-28,2020-06-06,FULL_TIME
+Data Analyst III,Superior HealthPlan,Texas,Austin,67895,116073,3.3,2020-05-07,2020-06-06,FULL_TIME
+Senior Data Analyst,TEEMA,Texas,Dallas,68492,89373,4.7,2020-05-02,2020-06-06,FULL_TIME
+Data Analyst - (Forensic),"Marlabs, Inc",Texas,Houston,37835,70291,4.4,2020-05-06,2020-06-06,FULL_TIME
+Sr. Big Data Engineer (Apache/Spark),Securonix,Texas,Addison,81872,107497,3.1,2020-05-06,2020-06-06,FULL_TIME
+Sr Data Engineer Hadoop,NTT DATA Corporation,Texas,Plano,64283,121701,3.3,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer,Athreya Inc,Texas,Dallas,72676,102840,4.5,2020-05-01,2020-06-06,FULL_TIME
+Big Data Engineer,"Digital Intelligence Systems, LLC",Texas,Irving,57279,111553,3.7,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer (immediate Interview),"Key Business Solutions, Inc.",Texas,Plano,56318,106569,3.6,2020-05-06,2020-06-06,FULL_TIME
+Data Analyst,"ZeniMax Media, Inc.",Texas,Dallas,87404,112948,3.4,2020-05-05,2020-06-06,FULL_TIME
+Big Data Engineer,Tiger Analytics,Texas,Dallas,48232,89155,4.6,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst II,Superior HealthPlan,Texas,Austin,55183,95771,3.3,2020-05-07,2020-06-06,FULL_TIME
+Director of Data Analytics,Omnitracs,Texas,Dallas,80937,118287,3.1,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,Lockheed Martin,Texas,Fort Worth,67052,72957,3.8,2020-04-29,2020-06-06,FULL_TIME
+Data Engineer,Apple,Texas,Austin,94041,119218,4.1,2020-05-01,2020-06-06,FULL_TIME
+Data Modeler with IDA,"Tanisha Systems, Inc.",Texas,San Antonio,44434,75440,3.8,2020-05-05,2020-06-06,FULL_TIME
+Director Data Science and Advanced Analytics,"NextEra Energy, Inc.",Texas,Houston,107812,165765,3.2,2020-05-07,2020-06-06,FULL_TIME
+Data Science Manager,Southwestern Energy,Texas,Spring,108576,169672,3.6,2020-05-07,2020-06-06,FULL_TIME
+"Big Data Engineer, COBOL, PySpark",iLink Systems Inc.,Texas,Dallas,53234,105269,3.9,2020-05-07,2020-06-06,FULL_TIME
+Lead Data Analyst,ArcBest,Texas,Plano,71002,88453,3.6,2020-05-02,2020-06-06,FULL_TIME
+Application Vulnerability Governance Lead Data Analyst,Citi,Texas,Irving,70770,118565,3.6,2020-05-07,2020-06-06,FULL_TIME
+Behavorial Health Data Analyst,LifePath Systems,Texas,Plano,44601,69508,3.5,2020-04-30,2020-06-06,FULL_TIME
+Application Vulnerability Governance Lead Data Analyst,Citibank,Texas,Irving,60239,102773,3.7,2020-05-07,2020-06-06,FULL_TIME
+Senior Staff Business/Data Analyst - Metric Certification,Charles Schwab Corporation,Texas,Westlake,54059,105058,3.6,2020-05-07,2020-06-06,FULL_TIME
+"Data Engineer, Sr. (TIBCO)",Entergy,Texas,The Woodlands,63753,116406,3.7,2020-05-02,2020-06-06,FULL_TIME
+Senior Data Analyst,Analytical Mechanics Associates,Texas,Dallas,73999,90377,3.5,2020-05-01,2020-06-06,PART_TIME
+Senior Data Analyst,Excite Health Partners,Texas,Dallas,65390,105107,3.9,2020-04-29,2020-06-06,FULL_TIME
+Big Data Engineer,"Onica, a Rackspace Company",Texas,Austin,84406,156399,4.3,2020-04-28,2020-06-06,FULL_TIME
+Senior UX / Data Visualization Designer,MVPindex,Texas,Austin,80475,100451,3.5,2020-05-02,2020-06-06,FULL_TIME
+Big Data Engineer,Open Systems Technologies,Texas,Irving,60668,110380,3.2,2020-05-05,2020-06-06,FULL_TIME
+Senior Data Analyst,Charles Schwab,Texas,Westlake,72445,83576,3.6,2020-04-29,2020-06-06,FULL_TIME
+Senior Data Engineer,Unizin,Texas,Austin,102316,121634,5.0,2020-04-28,2020-06-06,FULL_TIME
+Senior Data Analyst,Convene Technologies,Texas,San Antonio,72546,89415,3.3,2020-05-01,2020-06-06,FULL_TIME
+Clinical Data Reporter,Natera,Texas,Austin,44393,78229,3.7,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst/Programmer,APN Consulting Inc,Texas,Irving,56313,95407,4.2,2020-05-02,2020-06-06,FULL_TIME
+Environmental Data Specialist,GEI Consultants Inc,Texas,Dallas,36154,47201,4.3,2020-05-01,2020-06-06,FULL_TIME
+"Reporting Data Engineer, Ad Platforms",Apple,Texas,Austin,94041,119218,4.1,2020-05-07,2020-06-06,FULL_TIME
+Data Analyst I,VUMI Group,Texas,Dallas,66965,70573,3.1,2020-04-29,2020-06-06,FULL_TIME
+Assessment Data Analyst (Campus Testing Coordinator) Pool Leadership Academy Network (LAN),Fort Worth Independent School District,Texas,Fort Worth,19857,38127,3.5,2020-05-02,2020-06-06,FULL_TIME
+Junior Data Analyst,Assembly,Texas,Austin,30608,56630,3.4,2020-04-30,2020-06-06,FULL_TIME
++ Global Process Data Analyst,InfoQuest Consulting Group,Texas,Fort Worth,56690,69770,4.7,2020-04-24,2020-06-06,FULL_TIME
+"Data Engineer or Data Engineer, Sr",Entergy,Texas,The Woodlands,54118,101452,3.7,2020-05-06,2020-06-06,FULL_TIME
+Senior Big Data Engineer/Architect (TX/OH/NJ)- 5 Openings,"American Cybersystems, Inc.",Texas,Houston,50308,93458,3.9,2020-04-25,2020-06-06,FULL_TIME
+Sr. Data Engineer,Irvine Technology Corporation,Texas,Houston,48204,91026,4.0,2020-05-01,2020-06-06,FULL_TIME
+Data & Analytics Consultant (DAL),SEI,Texas,Dallas,46572,71444,3.9,2020-05-02,2020-06-06,FULL_TIME
+Revenue Data Analyst,Behavioral Health Group,Texas,Dallas,33414,58921,3.0,2020-05-07,2020-06-06,FULL_TIME
+"Senior Data Analyst, Ad Platforms",Apple,Texas,Austin,62994,123103,4.1,2020-05-03,2020-06-06,FULL_TIME
+Big Data Engineer (Kafka),Frontend Arts,Texas,Irving,60924,91092,4.5,2020-05-04,2020-06-06,FULL_TIME
+"Sr Data Engineer (Python, AWS)",United Software Group,Texas,San Antonio,51927,98989,3.6,2020-04-29,2020-06-06,FULL_TIME
+Senior Data Engineer,"InfoVision, Inc.",Texas,Plano,96224,173073,3.0,2020-04-24,2020-06-06,FULL_TIME
+Claims Data Analyst,GAINSCO,Texas,Dallas,54600,63492,3.9,2020-04-30,2020-06-06,FULL_TIME
+Assessment Data Analyst (Campus Testing Coordinator) Pool,Fort Worth Independent School District,Texas,Fort Worth,19857,38127,3.5,2020-05-01,2020-06-06,FULL_TIME
+Staff Big Data Engineer,Infoblox Inc.,Texas,Austin,85245,159395,4.2,2020-04-26,2020-06-06,FULL_TIME
+Data Engineer,Slalom LLC.,Texas,Houston,88402,102232,4.2,2020-04-29,2020-06-06,FULL_TIME
+RAPD Risk Platforms & Data - Analyst,Goldman Sachs,Texas,Dallas,55284,98071,3.9,2020-04-25,2020-06-06,FULL_TIME
+Big Data Engineer,Tachyon Technologies LLC,Texas,Irving,62560,93109,4.6,2020-04-28,2020-06-06,FULL_TIME
+"Population Science - Project Coordinator I, II and III - Data Science",UT Southwestern Medical Center,Texas,Dallas,51270,56468,3.7,2020-04-24,2020-06-06,FULL_TIME
+"Digital Transformation & Management, Data Architect",Grant Thornton,Texas,Dallas,95424,120548,3.6,2020-05-07,2020-06-06,FULL_TIME
+Public Health Data Analyst,City of Lubbock,Texas,Lubbock,29500,51375,3.9,2020-05-02,2020-06-06,FULL_TIME
+Reporting Data Architect,Apple,Texas,Austin,82836,136678,4.1,2020-04-24,2020-06-06,FULL_TIME
+Tech Consulting Manager - Big Data Engineer,EY,Texas,Austin,98718,105090,3.8,2020-05-07,2020-06-06,FULL_TIME
+Tech Consulting Senior - Big Data Engineer,EY,Texas,Austin,85831,106392,3.8,2020-05-07,2020-06-06,FULL_TIME
+Data Analytics Manager,AIG,Texas,Houston,103471,145207,3.2,2020-04-25,2020-06-06,FULL_TIME
+"Cloud Data Engineer, Google Professional Services",Google,Texas,Addison,92015,125285,4.4,2020-04-28,2020-06-06,FULL_TIME
+"Population Science Data Analyst I, II and III - Data Science",UT Southwestern Medical Center,Texas,Dallas,66241,70821,3.7,2020-05-02,2020-06-06,FULL_TIME
+Reporting Data Operations Engineer,Apple,Texas,Austin,54915,94155,4.1,2020-04-24,2020-06-06,FULL_TIME
+Senior Data Engineer,Capital One,Texas,Plano,104759,110024,3.8,2020-05-01,2020-06-06,FULL_TIME
+Lead/Principal Data Engineer,Boston Consulting Group,Texas,Dallas,95571,116892,4.3,2020-05-06,2020-06-06,FULL_TIME
+Application Vulnerability Governance Data Analyst,Citi,Texas,Irving,56359,86120,3.6,2020-05-02,2020-06-06,FULL_TIME
+"Product Owner, Data Analyst",Charles Schwab,Texas,Westlake,59486,100498,3.6,2020-05-06,2020-06-06,FULL_TIME
+Senior Business/Data Analyst-Irving-VP/C13 - R,Citi,Texas,Irving,78759,145179,3.6,2020-05-05,2020-06-06,FULL_TIME
+Digital SW Eng Lead/Data Engineer,TECHNOCRAFT Solutions,Texas,Irving,120615,123446,3.6,2020-05-01,2020-06-06,FULL_TIME
+IT Engineer - Data Repository and Platform Delivery and Support,Hewlett Packard Enterprise,Texas,Houston,85093,101196,3.8,2020-05-02,2020-06-06,FULL_TIME
+Application Vulnerability Governance Data Analyst,Citibank,Texas,Irving,36956,50975,3.7,2020-05-02,2020-06-06,FULL_TIME
+Senior Business/Data Analyst-Irving-VP/C13 - R,Citibank,Texas,Irving,116750,210331,3.7,2020-05-05,2020-06-06,FULL_TIME
+Data Science Manager,Sphere Software LLC,Texas,Austin,122652,144576,0.0,2020-05-07,2020-06-06,FULL_TIME
+"Network Data Analyst, NSW",Nokia,Texas,Dallas,46041,80014,4.1,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst - Report Writer,EAG Services,Texas,Houston,35455,77407,4.6,2020-04-27,2020-06-06,FULL_TIME
+SAS Data Analyst III(With SOL & Tableau),PROLIM Global Corporation,Texas,Dallas,58703,82296,3.5,2020-04-28,2020-06-06,FULL_TIME
+"Director and Facilitator, Data Science Community",GasPedal,Texas,Austin,91948,107391,3.5,2020-04-30,2020-06-06,FULL_TIME
+Data Science Director,Sphere Software LLC,Texas,Austin,158967,165808,0.0,2020-05-07,2020-06-06,FULL_TIME
+Senior Athletics Assistant (Data Analysis),Texas A&amp;amp;M University,Texas,College Station,60739,69867,4.3,2020-05-06,2020-06-06,FULL_TIME
+Data Infrastructure Engineer (Sensia),Rockwell Automation,Texas,Houston,77722,98231,3.8,2020-04-29,2020-06-06,FULL_TIME
+Sr Data Engineer,"InfoVision, Inc.",Texas,Plano,83748,153672,3.0,2020-04-28,2020-06-06,FULL_TIME
+Merchant Data Analyst,GetUpside,Texas,Austin,33547,79470,5.0,2020-04-24,2020-06-06,FULL_TIME
+(Senior) Data Engineer,Boston Consulting Group,Texas,Dallas,84456,108389,4.3,2020-05-06,2020-06-06,FULL_TIME
+Azure Data Engineer,"TekLeaders, Inc",Texas,Irving,50561,96836,5.0,2020-04-30,2020-06-06,FULL_TIME
+Senior Data Engineer,Mr. Cooper,Texas,Lewisville,121172,132029,3.2,2020-05-03,2020-06-06,FULL_TIME
+Data Engineer/Developer,"CGI Group, Inc.",Texas,Dallas,76381,90510,3.5,2020-05-01,2020-06-06,FULL_TIME
+Data Modeler,Cyber Warrior Network,Texas,San Antonio,85937,100798,0.0,2020-04-29,2020-06-06,FULL_TIME
+Sr. Big Data Engineer (SOLR/Elastic),Securonix,Texas,Addison,81872,107497,3.1,2020-05-06,2020-06-06,FULL_TIME
+Data Modeler / Data Architect,Kairos Technologies,Texas,Dallas,94697,110601,4.1,2020-04-28,2020-06-06,FULL_TIME
+Federal - Data Engineer - Senior,Solekai Systems Corp,Texas,Dallas,82788,154088,4.2,2020-04-28,2020-06-06,FULL_TIME
+Data Engineer Manager,Amazon,Texas,Dallas,102730,143172,3.9,2020-04-26,2020-06-06,FULL_TIME
+"Solutions Architect, Sr. (Data Applications)",Entergy,Texas,The Woodlands,83822,138968,3.7,2020-04-30,2020-06-06,FULL_TIME
+Data Analyst II,Virtus Partners,Texas,Houston,42538,49367,2.8,2020-04-29,2020-06-06,FULL_TIME
+"** REMOTE WORK/ Multiple Locations - URGENT NEED CONTRACT Sr. Data Engineer ( DW ETL and Big data ,) **********",EOK Technologies Inc,Texas,Austin,75956,137979,3.3,2020-05-04,2020-06-06,CONTRACTOR
+Data Engineer - Wallet Payments & Commerce,Apple,Texas,Austin,94041,119218,4.1,2020-05-02,2020-06-06,FULL_TIME
+Data Analyst -0517 Suv,Vastika,Texas,Irving,44601,78354,3.8,2020-04-25,2020-06-06,FULL_TIME
+"Senior Data Analyst, Battle.net & Online Products",Blizzard Entertainment,Texas,Austin,64734,119910,3.8,2020-05-05,2020-06-06,FULL_TIME
+Data Analyst III,Virtus Partners,Texas,Houston,48748,54766,2.8,2020-04-29,2020-06-06,FULL_TIME
+Healthcare Data Analyst - Remote,Allscripts,Texas,Austin,45173,80899,3.4,2020-04-26,2020-06-06,FULL_TIME
+"Data Analyst, Revenue Operations",Kasasa,Texas,Austin,58386,110083,4.2,2020-04-25,2020-06-06,FULL_TIME
+Sr. Data Engineer,Anblicks,Texas,Dallas,85232,107322,4.1,2020-05-06,2020-06-06,FULL_TIME
+"Software Engineer – Data/Backend, AMP Data Science & Analytics",Apple,Texas,Austin,94041,119218,4.1,2020-05-06,2020-06-06,FULL_TIME
+Business Strategy and Planning Director - Data Science Strategy,USAA,Texas,Plano,115506,197715,3.6,2020-04-24,2020-06-06,FULL_TIME
+Sr. Data Engineer,BRIGHT HEALTH,Texas,Austin,95254,168107,3.4,2020-05-02,2020-06-06,FULL_TIME
+Data Engineer - Army Futures Command,SAIC,Texas,Austin,83535,88753,3.6,2020-04-24,2020-06-06,FULL_TIME
+Data Science Specialist – Architect,Wise Men Consultants,Texas,Houston,97758,117748,2.7,2020-04-24,2020-06-06,FULL_TIME
+Python Data Engineer/Developer (9-15 yrs),Wise Men Consultants,Texas,Houston,102230,127435,2.7,2020-04-24,2020-06-06,FULL_TIME
+Senior Strategy Data Analyst,Central Health,Texas,Austin,74158,97028,3.6,2020-05-01,2020-06-06,FULL_TIME
+Strategic Data Analyst III - Strategic Planning Divsion,TxDOT,Texas,Austin,89206,96460,3.7,2020-04-30,2020-06-06,PART_TIME
+Big Data Engineer with Cassandra and Spark,LiveMindz,Texas,Dallas,72676,102091,0.0,2020-04-28,2020-06-06,FULL_TIME
+Data Analyst (Grant Funded),Central Health,Texas,Austin,39778,69892,3.6,2020-04-25,2020-06-06,FULL_TIME
+Management Analyst IV (Senior Data Analyst),Houston Public Library,Texas,Dallas,60514,75124,3.6,2020-04-28,2020-06-06,FULL_TIME
+Sr Advanced Data Architect/Data Engineer,Resideo,Texas,Austin,82387,106388,2.9,2020-04-30,2020-06-06,FULL_TIME
+DPS - FIN - CAPPS Financial Senior Data Analyst,TEXAS DEPARTMENT OF PUBLIC SAFETY,Texas,Austin,63706,73858,3.7,2020-04-29,2020-06-06,FULL_TIME
+Sr Data Modeler,sydata,Texas,Irving,109626,113231,3.5,2020-04-29,2020-06-06,FULL_TIME
+Merchant Success Data Analyst,GetUpside,Texas,Austin,33547,79470,5.0,2020-04-29,2020-06-06,FULL_TIME
+Data Analyst III - Disease Control Clinicial Prevention,HARRIS COUNTY,Texas,Houston,47130,80620,3.3,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer - Relocate to Washington D.C.,CIA,Texas,Houston,83649,113534,3.7,2020-05-01,2020-06-06,FULL_TIME
+"Associate, Strategy and Operations (Data Analyst IV)",TEXAS EDUCATION AGENCY,Texas,Austin,57001,72041,2.6,2020-05-06,2020-06-06,FULL_TIME
+Sr. Data & ML Engineer,Amazon,Texas,Dallas,105992,136952,3.9,2020-04-27,2020-06-06,FULL_TIME
+Data Governance Lead,Entergy,Texas,The Woodlands,45724,98256,3.7,2020-04-26,2020-06-06,FULL_TIME
+Aircraft Data Analyst,ForeFlight,Texas,Houston,46677,75545,3.3,2020-04-25,2020-06-06,FULL_TIME
+"Engineering Manager, Data Infrastructure",Duo Security,Texas,Austin,118866,127185,4.5,2020-04-24,2020-06-06,FULL_TIME
+Management Analyst IV (Senior Data Analyst),City of Houston,Texas,Houston,37244,129543,3.2,2020-04-28,2020-06-06,FULL_TIME
+Contract Data Analyst,"Amyx, Inc.",Texas,San Antonio,57070,87171,3.8,2020-04-30,2020-06-06,CONTRACTOR
+Senior Strategy Data Analyst,CommUnityCare,Texas,Austin,84556,99185,3.0,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst Lead - SAP,Capgemini,Texas,Houston,93761,103321,3.8,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst (Grant Funded),CommUnityCare,Texas,Austin,38355,67641,3.0,2020-04-25,2020-06-06,FULL_TIME
+Big Data Engineer- AdvisorAnalytics,CVS Health,Texas,Irving,50251,92591,2.8,2020-04-25,2020-06-06,FULL_TIME
+Data Visualization and Analytics Consultant,Slalom LLC.,Texas,Houston,87171,117352,4.2,2020-04-29,2020-06-06,FULL_TIME
+Senior Big Data Engineer,RMS Computer,Texas,Irving,67353,123122,3.6,2020-05-06,2020-06-06,FULL_TIME
+Senior Developer - Data Engineer |,Photon Infotech,Texas,Irving,93358,109410,3.0,2020-04-30,2020-06-06,FULL_TIME
+Developer - Data Engineer |,Photon Infotech,Texas,Irving,70318,101075,3.0,2020-04-30,2020-06-06,FULL_TIME
+QA Automaion Data Science,Sunmerge Systems Inc,Texas,Houston,80488,117748,2.8,2020-04-28,2020-06-06,FULL_TIME
+Academic Data Analyst : Central Management Office,Uplift Education,Texas,Dallas,44214,63751,2.8,2020-04-25,2020-06-06,FULL_TIME
+Sr Data Engineer,Sphinix Solutions,Texas,Plano,98991,123495,1.0,2020-05-05,2020-06-06,FULL_TIME
+Lead Data Engineer,BRIGHT HEALTH,Texas,Austin,93226,165946,3.4,2020-04-28,2020-06-06,FULL_TIME
+Marketing Data Consultant,Reynolds and Reynolds,Texas,Houston,57088,84374,3.4,2020-04-25,2020-06-06,FULL_TIME
+Lead Data Engineer,Capital One,Texas,Plano,106757,140944,3.8,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer - Orion,"ZeniMax Media, Inc.",Texas,Dallas,61795,74447,3.4,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst II - Retail,ENGIE North America,Texas,Houston,45333,52725,3.9,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist,ManTech,Virginia,Chantilly,108486,145165,4.1,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist,GEICO,Maryland,Chevy Chase,69285,113337,3.3,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist,Tecolote Research,District of Columbia,Washington,74791,102528,4.0,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Systems &amp;amp; Technology Research,Virginia,Arlington,94721,115685,4.7,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist,Booz Allen Hamilton Inc.,Maryland,Annapolis Junction,76575,116705,3.7,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Novetta,Maryland,Annapolis Junction,98457,117062,4.1,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,ManTech,Virginia,Herndon,107971,114861,4.1,2020-05-01,2020-06-06,FULL_TIME
+Streaming Data Engineer,GetWellNetwork,Maryland,Bethesda,93193,104508,4.7,2020-04-24,2020-06-06,FULL_TIME
+Senior Data Scientist,ManTech,Virginia,Alexandria,152636,165075,4.1,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,The Knot Worldwide,District of Columbia,Washington,76616,102469,3.6,2020-05-06,2020-06-06,FULL_TIME
+Senior Data Scientist,Amazon,Virginia,Herndon,114390,155798,3.9,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,Seen by Indeed,District of Columbia,Washington,70240,116338,0.0,2020-04-25,2020-06-06,FULL_TIME
+Aviation FOQA Data Scientist Sr.,MITRE,Virginia,McLean,91416,147027,3.2,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,Mathematica Policy Research,District of Columbia,Washington,99264,132056,3.3,2020-04-30,2020-06-06,FULL_TIME
+Future Opportunity: Data Engineer,AVANADE,North Carolina,Raleigh,52024,99286,3.9,2020-04-29,2020-06-06,FULL_TIME
+Product Engineer – Data Science,Esri,Virginia,Arlington,67446,82227,3.6,2020-04-25,2020-06-06,FULL_TIME
+Senior Data Scientist,Novetta,Virginia,Herndon,112161,181839,4.1,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist - Defense & Intelligence,Elder Research,Virginia,McLean,95113,106971,3.8,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Department of Energy,District of Columbia,Washington,76631,127462,3.6,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist active TS/SCI,LMI,Virginia,Fort Belvoir,78503,131882,3.9,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,Expression Networks,District of Columbia,Washington,74963,121611,4.7,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,U.S. General Services Administration,District of Columbia,Washington,81690,134847,3.9,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,West 4th Strategy,District of Columbia,Washington,86300,113249,5.0,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist,IT Resonance Inc,Virginia,Arlington,58322,100095,4.3,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,Artlin Consulting,Virginia,Arlington,86300,113249,4.1,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,"Applied Research Associates, Inc.",Virginia,Arlington,58594,99386,3.7,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist,CIA,District of Columbia,Washington,103560,132838,3.7,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Fannie Mae,District of Columbia,Washington,102316,140080,3.6,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Analytica,District of Columbia,Washington,65493,110872,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,Meridian Knowledge Solutions,District of Columbia,Washington,74963,121611,3.1,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist,Storyblocks,Virginia,Arlington,74963,121611,4.9,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist,Koch Industries,Virginia,Arlington,103270,133441,3.6,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Pandera Systems,Virginia,Arlington,120041,151249,4.3,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist,Na Ali&amp;#039;i,District of Columbia,Washington,81933,136242,4.2,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Navigant Consulting,District of Columbia,Washington,45951,78323,3.2,2020-05-01,2020-06-06,FULL_TIME
+"Data Scientist, Senior",Novetta,Virginia,Fort Belvoir,112161,181839,4.1,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,DCS CORPORATION,Virginia,Alexandria,68857,117241,4.1,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist,University of Maryland,Maryland,College Park,90874,109430,4.3,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,Pragmatics,Maryland,Suitland,61402,103866,2.8,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist,Thomson Reuters Corporation,Virginia,Mc Lean,91072,145746,3.6,2020-05-07,2020-06-06,FULL_TIME
+Junior Data Scientist,World Bank,District of Columbia,Washington,53663,92754,3.9,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist,"Culmen International, LLC",District of Columbia,Washington,80686,113974,3.8,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,The Rock Creek Group,District of Columbia,Washington,77283,129486,4.7,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist,Ollie&amp;#039;s Bargain Outlet,Virginia,Alexandria,65120,109030,2.9,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Cognosante,Virginia,Mc Lean,71930,120664,3.0,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Resolvit.com,District of Columbia,Washington,75017,120728,4.2,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist,1901 Group,Virginia,Arlington,79171,126697,3.1,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist,Royce Geospatial,Virginia,Springfield,95407,126717,5.0,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Pivotal Software,District of Columbia,Washington,112093,149318,4.4,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist,Sprezzatura Management Consulting,District of Columbia,Washington,70240,116338,0.0,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,Novetta,Virginia,Springfield,90535,100724,4.1,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Knowesis Inc.,Texas,San Antonio,62395,87899,4.4,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist - Mid Level,I-Link Solutions,District of Columbia,Washington,66348,115540,4.7,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist,Akima Management Services,District of Columbia,Washington,73030,106117,3.2,2020-05-05,2020-06-06,FULL_TIME
+Sr. Principal Data Scientist,Northrop Grumman,Virginia,Fairfax,122794,195305,3.7,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist,ALQIMI,Virginia,Rosslyn,70240,116338,4.4,2020-05-07,2020-06-06,FULL_TIME
+Sr Data Scientist,Sierra Nevada Corporation,Virginia,Herndon,107655,174265,3.2,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer,Public Broadcasting Service,Virginia,Arlington,89383,104525,3.8,2020-04-28,2020-06-06,FULL_TIME
+Data Engineer,Excella Consulting,Virginia,Arlington,80388,90488,4.0,2020-04-27,2020-06-06,FULL_TIME
+Data Scientist,Tetra Tech,District of Columbia,Washington,103024,130269,3.9,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist,Information Gateways,Virginia,Alexandria,69552,84816,3.3,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist,SAIC,District of Columbia,Washington,88352,110797,3.6,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist,TransVoyant,Virginia,Alexandria,74963,121611,3.0,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Carolina Power &amp;amp; Light Co,Virginia,McLean,83852,137111,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,Research Innovations,Virginia,Alexandria,103449,130884,4.7,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist,Tek Leaders,Maryland,Rockville,89396,123728,3.5,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist,Valiant Integrated Services,Virginia,McLean,70677,117046,3.3,2020-05-02,2020-06-06,FULL_TIME
+Data Analyst,ID.me,Virginia,McLean,76089,99510,3.3,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist/Lead Data Scientist,BlueLabs,District of Columbia,Washington,113152,152695,4.6,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,Noblis,Virginia,Reston,75835,101374,4.0,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Berico Technologies,Virginia,Springfield,77725,130330,3.5,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist,The Aerospace Corporation,Virginia,Chantilly,102641,119000,3.8,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Varen Technologies,Virginia,McLean,95407,126717,4.2,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist,Infinitive Inc,Virginia,McLean,83138,118794,3.4,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist,Axiologic Solutions,Virginia,Reston,74963,121611,4.4,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,"Visionist, Inc.",Maryland,Columbia,89929,143975,4.9,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,"Pyramid Systems, Inc.",Virginia,Fairfax,81591,118794,4.2,2020-04-24,2020-06-06,FULL_TIME
+"Data Scientist, Senior",Booz Allen Hamilton Inc.,Virginia,Arlington,80176,133374,3.7,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Leidos,Virginia,McLean,85079,107525,3.4,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,Maxar Technologies,Virginia,McLean,105449,114869,3.5,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist,NT Concepts,Virginia,Vienna,92852,122397,3.6,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist,Lockheed Martin,Virginia,Herndon,101818,133182,3.8,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,Ops Tech Alliance,Virginia,Springfield,70240,116338,0.0,2020-05-04,2020-06-06,FULL_TIME
+Data Scientist,"Electronic Consulting Services, Inc.",Maryland,Adelphi,59454,100804,3.5,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist,Omni Consulting Solutions,District of Columbia,Washington,70240,116338,0.0,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist,General Dynamics Information Technology,Maryland,Fort Meade,77272,103177,3.4,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist,"ISYS Technologies, Inc.",Virginia,Herndon,95407,126717,3.4,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist,Praxis Engineering,Virginia,Chantilly,118774,146066,4.7,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist/Architect,Serry Systems,Virginia,Arlington,101647,134201,0.0,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist Technical Specialist,Peraton,Virginia,Chantilly,67743,85638,3.4,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist Level-I,Nolij Consulting,Virginia,Vienna,45186,78043,3.9,2020-04-25,2020-06-06,FULL_TIME
+"AI Data Scientist- Machine Learning, Consultant",Guidehouse,District of Columbia,Washington,62072,70056,3.2,2020-05-01,2020-06-06,FULL_TIME
+Federal - Data Scientist,Solekai Systems Corp,Virginia,Alexandria,82046,133600,4.2,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist,Par Government Systems Corporation,Virginia,Reston,79171,126697,3.2,2020-04-30,2020-06-06,FULL_TIME
+"Data Scientist, Analytics",Facebook,District of Columbia,Washington,100134,145662,4.4,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist (CCDB) (Mid-Level),METIS Solutions,District of Columbia,Washington,80686,113974,3.4,2020-04-27,2020-06-06,FULL_TIME
+Artificial Intelligence/Machine Learning Data Scientist,Booz Allen Hamilton Inc.,Virginia,Alexandria,60508,103578,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer SME,LMI,Virginia,Fort Belvoir,84823,144070,3.9,2020-04-24,2020-06-06,FULL_TIME
+Federal - Data Scientist,Accenture,District of Columbia,Washington,72478,121282,3.8,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist - Machine Learning Engineer,Atlas Research,District of Columbia,Washington,84918,103987,2.9,2020-04-25,2020-06-06,FULL_TIME
+Data Analyst,BlueLabs,District of Columbia,Washington,49560,77573,4.6,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist Machine Learning,Leidos,Virginia,Arlington,79841,132203,3.4,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,BOEING,Virginia,Arlington,98717,107058,3.6,2020-05-05,2020-06-06,FULL_TIME
+Senior Data Scientist,West Creek Financial,District of Columbia,Washington,90000,150000,4.6,2020-04-30,2020-06-06,FULL_TIME
+Senior Data Engineer,Novetta,Virginia,Reston,67104,126644,4.1,2020-04-30,2020-06-06,FULL_TIME
+Senior Manager - Data Acquisition & Partnerships,ID.me,Virginia,McLean,135546,160387,3.3,2020-04-30,2020-06-06,FULL_TIME
+"Sr. Data Scientist (Arlington, VA)",Tiger Analytics,Virginia,Arlington,107484,147854,4.6,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist II,NCQA,District of Columbia,Washington,93726,109642,3.4,2020-04-30,2020-06-06,FULL_TIME
+Junior Data Scientist,Ball Corporation,Virginia,Springfield,51237,86319,3.7,2020-05-03,2020-06-06,FULL_TIME
+"Junior Data Scientist, Analytics",CGI,Virginia,Arlington,47514,82849,3.5,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist (Pipeline),Fannie Mae,District of Columbia,Washington,102316,140080,3.6,2020-04-28,2020-06-06,FULL_TIME
+Senior Data Scientist,"IEM, Inc",Virginia,Arlington,88120,142006,3.3,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist - Senior Consultant,Guidehouse,District of Columbia,Washington,119363,190334,3.2,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,Seen by Indeed,District of Columbia,Washington,81616,98428,0.0,2020-04-25,2020-06-06,FULL_TIME
+Senior Data Scientist,"Discovery Communications, Inc.",Maryland,Silver Spring,123596,201900,3.4,2020-05-07,2020-06-06,FULL_TIME
+"Data Scientist, Senior Consultant",Navigant Consulting,District of Columbia,Washington,52583,89114,3.2,2020-05-05,2020-06-06,FULL_TIME
+Junior Data Scientist,Ball Metal Food Container Corp,Virginia,Springfield,57902,97793,3.1,2020-04-28,2020-06-06,FULL_TIME
+Quantitative Analyst / Data Scientist - Opower Product Team,Oracle,Virginia,Arlington,78066,121530,3.5,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist Jr.,Optimal Solutions Group,Maryland,College Park,44646,65205,1.9,2020-04-28,2020-06-06,FULL_TIME
+Junior Data Scientist,Metaphase Consulting,Virginia,Arlington,57207,100230,5.0,2020-05-06,2020-06-06,FULL_TIME
+Senior Data Scientist,IT Resonance Inc.,Virginia,Alexandria,75749,127839,4.3,2020-04-28,2020-06-06,FULL_TIME
+"Big Data Scientist, Senior Consultant",Guidehouse,District of Columbia,Washington,114275,182211,3.2,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist-Machine Learning,IBM Corporation,Virginia,Chantilly,84908,137197,3.7,2020-05-03,2020-06-06,FULL_TIME
+"Social/Data Scientist, Military Personnel Analytics Team",Fors Marsh Group,Virginia,Arlington,99002,118901,3.7,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist- Secret Clearance,Deloitte,District of Columbia,Washington,83948,104429,3.9,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer / Scientist,CACI International,Virginia,McLean,62576,107487,3.5,2020-05-05,2020-06-06,FULL_TIME
+Dr. Strange or Iron Man? (Data Scientist),The Interface Financial Group,Maryland,Bethesda,81591,118794,4.0,2020-04-28,2020-06-06,FULL_TIME
+Junior Data Scientist,Ball Corporation / Ball Aerospace,Virginia,Springfield,56749,96904,3.7,2020-04-29,2020-06-06,PART_TIME
+Data Scientist - Data Analyst Managing Consultant,Guidehouse,District of Columbia,Washington,90572,146769,3.2,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist Behavioral Biometrics,Premise,District of Columbia,Washington,90267,147703,3.9,2020-05-07,2020-06-06,FULL_TIME
+Research Data Scientist,Institute for Justice,Virginia,Arlington,73993,116308,4.7,2020-04-30,2020-06-06,FULL_TIME
+Sr. Data Scientist,Tiger Analytics,Virginia,Arlington,71181,120518,4.6,2020-05-01,2020-06-06,FULL_TIME
+Intelligence Research Specialist (Data Scientist),US Department of Treasury,District of Columbia,Washington,47850,91297,3.6,2020-05-07,2020-06-06,PART_TIME
+Senior Data Scientist,Fors Marsh Group,Virginia,Arlington,101722,141462,3.7,2020-04-30,2020-06-06,FULL_TIME
+"Data Scientist, Public Sector",NVIDIA,District of Columbia,Washington,125977,198140,4.6,2020-05-05,2020-06-06,FULL_TIME
+Computer Scientist / Data Analytic,D3 AIR AND SPACE OPERATIONS INC,District of Columbia,Washington,79334,113232,3.3,2020-04-25,2020-06-06,FULL_TIME
+Senior Data Scientist,Ball Corporation,Virginia,Springfield,102050,165492,3.7,2020-05-03,2020-06-06,FULL_TIME
+"AI Data Scientist - Machine Learning, Consultant",Guidehouse,District of Columbia,Washington,75937,126602,3.2,2020-05-01,2020-06-06,FULL_TIME
+Senior Data Scientist,Leidos,Maryland,Bethesda,100231,162495,3.4,2020-05-04,2020-06-06,FULL_TIME
+Supply Chain Data Scientist (GS 13 Equivalent),"Credence Management Solutions, LLC",District of Columbia,Washington,67991,98323,4.5,2020-05-05,2020-06-06,FULL_TIME
+Senior Data Scientist,CareJourney,Virginia,Arlington,107905,129363,3.4,2020-05-06,2020-06-06,FULL_TIME
+"Data Scientist, Lead",Booz Allen Hamilton Inc.,Virginia,Arlington,96151,159959,3.7,2020-05-06,2020-06-06,FULL_TIME
+Site Manager - Data Scientist,SAIC,District of Columbia,Washington,54254,161480,3.6,2020-05-07,2020-06-06,FULL_TIME
+Operations Research Analyst/Data Scientist,Veracity Engineering,District of Columbia,Washington,78194,101772,4.4,2020-05-02,2020-06-06,FULL_TIME
+"Data Scientist, Lead",ManTech,Virginia,Alexandria,80890,135175,4.1,2020-05-01,2020-06-06,FULL_TIME
+"AI Data Scientist Machine Learning, Consultant",Navigant Consulting,District of Columbia,Washington,39825,68554,3.2,2020-05-01,2020-06-06,FULL_TIME
+"Data Scientist Machine Learning, Senior Consultant",Navigant Consulting,District of Columbia,Washington,47210,80337,3.2,2020-05-01,2020-06-06,FULL_TIME
+Innovation Applied Data Scientist,Noblis,District of Columbia,Washington,75835,101374,4.0,2020-05-01,2020-06-06,FULL_TIME
+Sr. Data Scientist,XOR Security,Virginia,Arlington,143172,149279,4.8,2020-05-01,2020-06-06,FULL_TIME
+"Computational Data Scientist, Senior Consultant",Guidehouse,District of Columbia,Washington,114275,182211,3.2,2020-05-06,2020-06-06,FULL_TIME
+NLP Data Scientist with Security Clearance,Resolvit,District of Columbia,Washington,75017,120728,4.2,2020-04-30,2020-06-06,FULL_TIME
+Senior Data Scientist,GEICO,Maryland,Chevy Chase,85683,136550,3.3,2020-05-02,2020-06-06,FULL_TIME
+"Data Scientist - Machine Learning, Senior Consultant",Navigant Consulting,District of Columbia,Washington,47210,80337,3.2,2020-04-24,2020-06-06,FULL_TIME
+Senior Data Scientist,Ball Corporation / Ball Aerospace,Virginia,Springfield,123972,199679,3.7,2020-04-29,2020-06-06,PART_TIME
+Director of Data Science,Hobsons,Virginia,Arlington,45119,94084,3.2,2020-05-02,2020-06-06,FULL_TIME
+Lead Data Science Instructor,General Assembly,District of Columbia,Washington,113827,160706,3.6,2020-04-24,2020-06-06,PART_TIME
+Sr. Data Engineer,Amazon,Virginia,Herndon,91919,141881,3.9,2020-04-25,2020-06-06,FULL_TIME
+Senior Data Scientist - ML,Leidos,Virginia,Arlington,119402,192865,3.4,2020-05-06,2020-06-06,FULL_TIME
+"Computational Data Scientist, Senior Consultant",Navigant Consulting,District of Columbia,Washington,52583,89114,3.2,2020-04-24,2020-06-06,FULL_TIME
+Senior Data Scientist,"Applied Research Associates, Inc.",Virginia,Fort Belvoir,90864,148646,3.7,2020-04-26,2020-06-06,FULL_TIME
+Data Scientist 1,Optimal Solutions Group,Maryland,College Park,62560,88486,1.9,2020-04-28,2020-06-06,FULL_TIME
+Data Engineer,NT Concepts,Virginia,Vienna,66263,75135,3.6,2020-05-01,2020-06-06,FULL_TIME
+"Data Scientist, Washington, DC. US ID","Cherokee Nation Businesses, LLC",District of Columbia,Washington,72762,121191,3.2,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist - Senior (DIAP),Celestar Corporation,District of Columbia,Washington,111628,138800,4.0,2020-04-28,2020-06-06,FULL_TIME
+Staff Data Scientist,Northrop Grumman,Virginia,McLean,126211,200405,3.7,2020-05-07,2020-06-06,FULL_TIME
+Cybersecurity Data Scientist,Booz Allen Hamilton Inc.,District of Columbia,Washington,76023,85673,3.7,2020-05-05,2020-06-06,FULL_TIME
+Sr Data Scientist,IT Resonance Inc,Virginia,Alexandria,75749,127839,4.3,2020-04-28,2020-06-06,FULL_TIME
+Federal - Data Scientist - Senior,Solekai Systems Corp,Virginia,Arlington,105356,168854,4.2,2020-05-06,2020-06-06,FULL_TIME
+Senior Data Scientist,"Metronome, LLC",Virginia,Springfield,118610,155256,3.2,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist Outreach Coordinator,Computercraft,Maryland,Bethesda,59001,89770,5.0,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist Manager,NIH,Maryland,Bethesda,93846,117891,4.2,2020-04-29,2020-06-06,FULL_TIME
+Principal Data Scientist,Microsoft Corporation,Virginia,Reston,126167,194619,4.3,2020-05-07,2020-06-06,FULL_TIME
+"Big Data Engineer, Analytics",Peraton,Virginia,Chantilly,84247,97443,3.4,2020-04-28,2020-06-06,FULL_TIME
+Data Modeler/Data Scientist,Royce Geospatial,Virginia,Springfield,96182,114131,5.0,2020-04-25,2020-06-06,FULL_TIME
+MEDLOG Data Scientist,CAMRIS International,Virginia,Arlington,79170,131880,3.9,2020-05-01,2020-06-06,FULL_TIME
+Senior Data Scientist,CGI,Virginia,Fairfax,96043,156678,3.5,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist II,"NCI Information Systems, Inc.",Virginia,Reston,61664,103785,3.4,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist with Machine Learning (Senior) - TS/SCI with Poly,Leidos,Virginia,McLean,100668,119871,3.4,2020-05-07,2020-06-06,FULL_TIME
+Mid-level Data Scientist/Data Analyst (SAS),22nd Century Technologies,Virginia,Arlington,101963,122280,3.7,2020-04-24,2020-06-06,FULL_TIME
+Senior Data Scientist - Entertainment and Media Industry Opportunity,Discovery Communications,Maryland,Silver Spring,123596,201900,3.4,2020-05-06,2020-06-06,FULL_TIME
+Mission Data Scientist,Booz Allen Hamilton Inc.,Virginia,Alexandria,60508,103578,3.7,2020-05-07,2020-06-06,FULL_TIME
+Sr. Data Scientist w TS/SCI and polygraph,Leidos,Maryland,Bethesda,100668,119871,3.4,2020-05-07,2020-06-06,FULL_TIME
+Senior Data Scientist/Data Analyst (SAS) - 73,Huntington Ingalls Industries,Virginia,Arlington,83655,138864,3.7,2020-04-29,2020-06-06,FULL_TIME
+Senior Data Scientist,Ball Metal Food Container Corp,Virginia,Springfield,99191,160887,3.1,2020-04-28,2020-06-06,FULL_TIME
+"Operations Research Data Scientist, Lead",Booz Allen Hamilton Inc.,Virginia,McLean,102340,155622,3.7,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist (Journeyman) - TS/SCI with Poly,Leidos,Virginia,McLean,96289,113657,3.4,2020-05-07,2020-06-06,FULL_TIME
+Data Assimilation Scientist,"Global Science &amp;amp; Technology, Inc.",Maryland,College Park,72535,102174,3.3,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer,Mount Indie,District of Columbia,Washington,83949,100884,5.0,2020-05-01,2020-06-06,FULL_TIME
+"Mission Data Scientist, Senior",Booz Allen Hamilton Inc.,Virginia,Springfield,90883,149936,3.7,2020-05-07,2020-06-06,FULL_TIME
+Security Data Scientist,Amazon,Virginia,Herndon,95511,149261,3.9,2020-05-01,2020-06-06,FULL_TIME
+"Data Scientist, Junior",Booz Allen Hamilton Inc.,Virginia,Arlington,78811,119521,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,Facebook,District of Columbia,Washington,86501,153110,4.4,2020-05-06,2020-06-06,FULL_TIME
+Data Analyst - Healthcare,BlueLabs,District of Columbia,Washington,49560,77573,4.6,2020-05-06,2020-06-06,FULL_TIME
+"Sr. Data Scientist - Corporate@ Arlington, Virginia",CEDENT,Virginia,Arlington,115391,156917,0.0,2020-05-06,2020-06-06,FULL_TIME
+Data Science Analyst,Fannie Mae,District of Columbia,Washington,92923,121154,3.6,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist Machine Learning with Security Clearance,Leidos,Virginia,Arlington,79841,132203,3.4,2020-04-29,2020-06-06,FULL_TIME
+Senior Data Scientist - ML with Security Clearance,Leidos,Virginia,Arlington,119402,192865,3.4,2020-04-30,2020-06-06,FULL_TIME
+Data Analyst,Booz Allen Hamilton Inc.,Virginia,Arlington,50831,91504,3.7,2020-05-06,2020-06-06,FULL_TIME
+"Sr. Data Scientist - Corporate@ Arlington, Virginia (Arlington",Cedent Consulting,Virginia,Arlington,118610,155256,3.3,2020-05-06,2020-06-06,FULL_TIME
+Big Data Engineer,Freddie Mac,Virginia,McLean,58474,111618,3.8,2020-05-07,2020-06-06,PART_TIME
+Data Scientist - Active TS/SCI Required,Leidos Holdings Inc.,Maryland,Suitland,83956,138438,3.4,2020-04-25,2020-06-06,FULL_TIME
+Principal Data Scientist,GEICO,Maryland,Chevy Chase,103866,170229,3.3,2020-05-02,2020-06-06,FULL_TIME
+Sr. Manager - Management Accounting (Data Scientist) (Advanced Analytics),Lidl,Virginia,Arlington,115563,136089,3.3,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist (SME) - TS/SCI w/ Poly Required,Leidos,Virginia,Reston,85079,107525,3.4,2020-05-07,2020-06-06,FULL_TIME
+"Senior Associate, Federal Data Scientist",KPMG,Virginia,Mc Lean,73663,121664,3.8,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer,CIA,District of Columbia,Washington,94452,110632,3.7,2020-05-01,2020-06-06,FULL_TIME
+Full Stack Data Scientist,Booz Allen Hamilton Inc.,Maryland,Fort Meade,62185,106674,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,Analytica,District of Columbia,Washington,66318,75135,3.7,2020-04-28,2020-06-06,FULL_TIME
+ORA/Data Scientist - AVAILABLE IMMEDIATELY,"Systems Planning and Analysis, Inc.",Virginia,Alexandria,67061,112337,3.9,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist with TS/SCI Clearance,General Dynamics,Virginia,Springfield,76560,126215,3.5,2020-05-01,2020-06-06,FULL_TIME
+Sr. Analyst - Management Accounting (Data Scientist) (Advanced Analytics),Lidl,Virginia,Arlington,72195,84756,3.3,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer,CACI International,District of Columbia,Washington,85799,99235,3.5,2020-05-06,2020-06-06,FULL_TIME
+Data Scientist (Journeyman),Berico Technologies,Virginia,Springfield,95950,157205,3.5,2020-05-03,2020-06-06,FULL_TIME
+Data Scientist (Senior),Salient CRGT,Virginia,McLean,100717,140195,2.5,2020-05-05,2020-06-06,FULL_TIME
+"Junior Data Scientist, Engineering",CGI,Virginia,Arlington,47514,82849,3.5,2020-05-06,2020-06-06,FULL_TIME
+Senior Data Engineer,Capital One,Virginia,Vienna,111787,123290,3.8,2020-05-05,2020-06-06,FULL_TIME
+Big Data GIS Scientist,BAE Systems USA,Virginia,Sterling,61388,126533,3.6,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer,"Electronic Consulting Services, Inc.",District of Columbia,Washington,53631,103002,3.5,2020-05-06,2020-06-06,FULL_TIME
+"Data Scientist-Alexandria, VA-1674 - Alexandria, VA with Security Clearance","DirectViz, LLC",Virginia,Alexandria,76994,128642,3.1,2020-04-29,2020-06-06,FULL_TIME
+"Data Scientist-Alexandria, VA-1674 - Alexandria, VA with Security Clearance","DirectViz, LLC",Virginia,Alexandria,76994,128642,3.1,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist - Cyber Incident Analysis (TS/SCI with Polygraph),LMI,Virginia,McLean,79571,130402,3.9,2020-04-30,2020-06-06,FULL_TIME
+Data Scientist SME - Secret/Uncleared,NCI Information Systems Inc.,Virginia,Reston,88809,145826,3.4,2020-05-07,2020-06-06,FULL_TIME
+"Data Scientist-Alexandria, VA","DirectViz Solutions, LLC",Virginia,Alexandria,76994,128642,3.1,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer,"Meridian Technologies, Inc.",Virginia,Arlington,58568,111223,4.0,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist (SME) - TS/SCI w/ Poly Required with Security Clearance,Leidos,Virginia,Reston,92606,150217,3.4,2020-05-03,2020-06-06,FULL_TIME
+Data Product Owner,Tiger Analytics,Virginia,Arlington,88561,104720,4.6,2020-05-02,2020-06-06,FULL_TIME
+Part Time Data Science Instructor,Data Society,District of Columbia,Washington,36583,64648,2.5,2020-05-02,2020-06-06,PART_TIME
+Data Scientist with Security Clearance,Jacobs,Virginia,Vienna,73955,122038,3.6,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist II - Secret/Uncleared,NCI Information Systems Inc.,Virginia,Reston,61664,103785,3.4,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist - Active Top Secret is required,"VISUAL SOFT, INC",Virginia,Chantilly,79171,126697,4.1,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist (SME) - TS/SCI with Polygraph,LMI,Virginia,McLean,83421,136158,3.9,2020-04-24,2020-06-06,FULL_TIME
+"Data Scientist, Senior",Jacobs,Virginia,McLean,126941,188349,3.6,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer,Akima Management Services,District of Columbia,Washington,100365,123718,3.2,2020-05-05,2020-06-06,FULL_TIME
+Electronic Warfare Data Scientist,Johns Hopkins University Applied Physics Laboratory,Maryland,Laurel,100000,160000,4.5,2020-05-02,2020-06-06,FULL_TIME
+Data Analyst II,American Institutes for Research,District of Columbia,Washington,74512,87717,3.1,2020-05-06,2020-06-06,FULL_TIME
+Data Architect,Theta,District of Columbia,Washington,127839,160487,4.6,2020-05-01,2020-06-06,FULL_TIME
+Manager - Management Accounting (Data Scientist) (Advanced Analytics),Lidl,Virginia,Arlington,100443,118161,3.3,2020-04-30,2020-06-06,FULL_TIME
+Senior Statistician/Data Scientist,Parsons Corporation,Virginia,Springfield,112491,181238,3.6,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer,AE Strategies,Virginia,Alexandria,67559,122821,4.8,2020-05-07,2020-06-06,FULL_TIME
+Sr. Data Scientist,Optimal Solutions Group,Maryland,College Park,97039,140342,1.9,2020-04-28,2020-06-06,FULL_TIME
+"Data Engineer, Senior Consultant",Guidehouse,District of Columbia,Washington,106284,191206,3.2,2020-05-07,2020-06-06,FULL_TIME
+Statistician/Data Scientist,S2 Analytical Solutions LLC,Virginia,Springfield,81591,118794,3.6,2020-05-01,2020-06-06,FULL_TIME
+Data Analyst,Sentar,Maryland,Annapolis Junction,66718,87639,4.0,2020-04-24,2020-06-06,FULL_TIME
+PM-Sr Data Scientist,BAE Systems USA,Virginia,McLean,98220,160136,3.6,2020-04-28,2020-06-06,FULL_TIME
+Data Engineer,ECS Corporate Services,District of Columbia,Washington,49576,90311,3.6,2020-04-28,2020-06-06,FULL_TIME
+Senior Outreach Data Scientist,Salient CRGT,Virginia,McLean,100717,140195,2.5,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist SME with Security Clearance,NCI Information Systems Inc.,Virginia,Reston,88809,145826,3.4,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer (Top Secret),Datastrong,District of Columbia,Washington,99399,117348,5.0,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist II with Security Clearance,NCI Information Systems Inc.,Virginia,Reston,61664,103785,3.4,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,Booz Allen Hamilton Inc.,Virginia,Arlington,58824,112227,3.7,2020-05-02,2020-06-06,FULL_TIME
+"Data Scientist, Senior",TENICA and Associates LLC,Virginia,Springfield,118610,155256,3.1,2020-04-29,2020-06-06,FULL_TIME
+"Principal Imaging Data Scientist | MD - Gaithersburg, UK - Cambridge, SE - Gothenburg",HopHR,Maryland,Gaithersburg,135571,168508,0.0,2020-05-05,2020-06-06,FULL_TIME
+ISR Mission Analytics/Data Scientist - TS/SCI,IBM,Virginia,Reston,92770,122696,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer,steampunk,Virginia,McLean,108661,121684,4.5,2020-05-06,2020-06-06,FULL_TIME
+"Data Engineer, Senior Consultant",Navigant Consulting,District of Columbia,Washington,53880,99408,3.2,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist- Clearance Required,Akima Management Services,Virginia,Arlington,73030,106117,3.2,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist with TS/SCI Clearance,General Dynamics Information Technology,Virginia,Springfield,65807,109751,3.4,2020-04-24,2020-06-06,FULL_TIME
+Data Scientist with Security Clearance,Leidos,Virginia,Springfield,75548,126751,3.4,2020-04-25,2020-06-06,FULL_TIME
+Data Visualization Developer - Data Scientist (TS/SCI w/ Poly),LMI,Virginia,Herndon,70408,117126,3.9,2020-05-05,2020-06-06,FULL_TIME
+"Director, Data Protection",Ipsos,District of Columbia,Washington,103105,120956,3.2,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist TOP SECRET CLEARANCE REQUIRED,Leidos Holdings Inc.,Virginia,Chantilly,75548,126751,3.4,2020-04-27,2020-06-06,FULL_TIME
+Senior Engineer - Machine Learning and Data Science,Thornton Tomasetti,District of Columbia,Washington,115429,147976,3.7,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer,NJVC,Virginia,Springfield,88931,162342,3.1,2020-05-07,2020-06-06,FULL_TIME
+"Principal Data Scientist - statistical modeling | MD - Gaithersburg, UK - Cambridge, SE - Gothenburg",HopHR,Maryland,Gaithersburg,135571,168508,0.0,2020-04-24,2020-06-06,FULL_TIME
+Sr. Data Scientist with Security Clearance,Jacobs,Virginia,Vienna,115328,185609,3.6,2020-05-02,2020-06-06,FULL_TIME
+Insider Threat Data Scientist,Noblis,Virginia,Reston,75835,101374,4.0,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist (mid level),Leidos,Virginia,McLean,85079,107525,3.4,2020-04-29,2020-06-06,FULL_TIME
+Data Analyst,Transaction Network Services,Virginia,Reston,54802,94357,3.2,2020-05-05,2020-06-06,FULL_TIME
+Federal - Big Data Engineer,Accenture,District of Columbia,Washington,68275,120716,3.8,2020-04-25,2020-06-06,FULL_TIME
+Data Scientist (Mid-Level),IT Resonance Inc.,Virginia,Alexandria,58322,100095,4.3,2020-04-28,2020-06-06,FULL_TIME
+Senior Data Scientist - Polygraph,CGI,Virginia,Chantilly,96043,156678,3.5,2020-05-06,2020-06-06,FULL_TIME
+Analyst / Data Scientist with Security Clearance,ALL NATIVE GROUP,Virginia,Fairfax,67581,115242,2.7,2020-04-29,2020-06-06,FULL_TIME
+"Senior Imaging Data Scientist | MD - Maryland, UK - Cambridge, SE - Gothenburg",HopHR,Maryland,Gaithersburg,111590,141805,0.0,2020-04-28,2020-06-06,FULL_TIME
+Federal - Senior Big Data Engineer,Accenture,District of Columbia,Washington,63056,116635,3.8,2020-04-26,2020-06-06,FULL_TIME
+Data Science Analyst III,Fannie Mae,District of Columbia,Washington,63773,144883,3.6,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,CGI,Virginia,Arlington,50022,97681,3.5,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist (Data Science),Boeing,Maryland,Annapolis Junction,87860,138824,3.6,2020-04-25,2020-06-06,FULL_TIME
+Senior Data Engineer,Ippon Technologies,District of Columbia,Washington,90226,114560,4.5,2020-05-06,2020-06-06,FULL_TIME
+"AI Data Engineer, Senior Consultant",Navigant Consulting,District of Columbia,Washington,48129,91683,3.2,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer,"Aurotech, Inc.",Maryland,Silver Spring,83940,101403,3.1,2020-05-05,2020-06-06,FULL_TIME
+"AI UI Web App Developer - Data Science, Senior Consultant",Guidehouse,District of Columbia,Washington,93436,175044,3.2,2020-05-03,2020-06-06,FULL_TIME
+Senior Data Engineer - Data Quality and Monitoring,Freddie Mac,Virginia,McLean,101219,125827,3.8,2020-04-24,2020-06-06,PART_TIME
+Senior Data Engineer,Aquicore,District of Columbia,Washington,104987,116952,4.2,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer/Analyst,Association Analytics Inc,Virginia,Arlington,99245,167278,3.4,2020-05-03,2020-06-06,FULL_TIME
+Data Engineer,Aeronautical Systems,Virginia,Sterling,65660,75291,4.1,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer - Mid level,Ippon Technologies,District of Columbia,Washington,81762,96674,4.5,2020-04-30,2020-06-06,FULL_TIME
+Senior Data Engineer,Pivotal Software,District of Columbia,Washington,129483,138931,4.4,2020-04-30,2020-06-06,FULL_TIME
+"Data Engineer and Architect, Senior Consultant",Navigant Consulting,District of Columbia,Washington,58326,103532,3.2,2020-05-01,2020-06-06,FULL_TIME
+"Data Engineer, Senior Consultant with Security Clearance",Guidehouse,District of Columbia,Washington,106284,191206,3.2,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,BlueVoyant,Maryland,College Park,83949,100884,4.2,2020-04-25,2020-06-06,FULL_TIME
+Data Engineer,General Dynamics,Maryland,Annapolis Junction,50892,90874,3.5,2020-05-07,2020-06-06,FULL_TIME
+E-09-311 Data Scientist,Axiologic Solutions,Virginia,Fairfax,74963,121611,4.4,2020-04-28,2020-06-06,FULL_TIME
+"AI Data Engineer, Senior Consultant",Guidehouse,District of Columbia,Washington,95426,177205,3.2,2020-04-24,2020-06-06,FULL_TIME
+"Data Scientist Architect, Senior",Booz Allen Hamilton Inc.,Maryland,Fort Meade,87939,135810,3.7,2020-04-24,2020-06-06,FULL_TIME
+Support Scientist Ocean Data Assimilation,IM Systems Group,Maryland,College Park,40261,91137,3.5,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist - Technical Targeter,CACI International,Virginia,Chantilly,89506,147180,3.5,2020-04-25,2020-06-06,FULL_TIME
+Data Engineer,Boeing Intelligence &amp;amp; Analytics,Virginia,Crystal City,91172,101266,3.9,2020-04-24,2020-06-06,FULL_TIME
+"AI Cloud DevOps Engineer - Data Science, Senior Consultant",Navigant Consulting,District of Columbia,Washington,51176,86862,3.2,2020-05-01,2020-06-06,FULL_TIME
+"AI UI Web App Developer Data Science, Senior Consultant",Navigant Consulting,District of Columbia,Washington,49495,99791,3.2,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer,Chenega MIOS,Virginia,Springfield,68826,123158,4.3,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,"ZeniMax Media, Inc.",Maryland,Rockville,62986,81374,3.4,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist - Adversarial Machine Learning for Cyber Exploitation,"Bluemont Technology &amp;amp; Research, Inc.",Maryland,Bethesda,70240,116338,0.0,2020-05-03,2020-06-06,FULL_TIME
+Cloud Data Architect - Senior Consultant,Guidehouse,District of Columbia,Washington,123555,153222,3.2,2020-05-05,2020-06-06,FULL_TIME
+"Principal Associate, Data Science",Capital One,Virginia,McLean,96850,123958,3.8,2020-05-01,2020-06-06,FULL_TIME
+Middle/Senior Big Data Engineer,AgileEngine,Maryland,Rockville,89328,110247,5.0,2020-05-07,2020-06-06,FULL_TIME
+Data Scientist - Cyber Defense Vulnerabilities,"Bluemont Technology &amp;amp; Research, Inc.",Maryland,Bethesda,70240,116338,0.0,2020-05-03,2020-06-06,FULL_TIME
+Python Data Engineer,Dahl Consulting,Virginia,Reston,45497,83892,4.5,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer,Capital One,Virginia,McLean,96672,107942,3.8,2020-05-01,2020-06-06,FULL_TIME
+Cloud DevOps Engineer – Data Science - Senior Consultant,Guidehouse,District of Columbia,Washington,118873,134532,3.2,2020-05-05,2020-06-06,FULL_TIME
+"AI UI Web App Developer - Data Science, Senior Consultant",Navigant Consulting,District of Columbia,Washington,49495,99791,3.2,2020-04-24,2020-06-06,FULL_TIME
+"AI Cloud DevOps Engineer - Data Science, Senior Consultant",Guidehouse,District of Columbia,Washington,96839,156930,3.2,2020-04-24,2020-06-06,FULL_TIME
+Senior Customer Solutions Data Engineer,Salesforce,District of Columbia,Washington,131832,146036,4.3,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer- Secret Clearance,Deloitte,District of Columbia,Washington,92747,111044,3.9,2020-04-29,2020-06-06,FULL_TIME
+PHP Data Engineer,Insomniac Design,District of Columbia,Washington,55665,79468,3.9,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer,Cognosante,Virginia,Mc Lean,63984,123389,3.0,2020-04-29,2020-06-06,FULL_TIME
+Big Data Engineer,PVK Corporation,Maryland,Rockville,60065,110887,3.7,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer,ERPi,Virginia,Fairfax,53540,100876,3.8,2020-04-28,2020-06-06,FULL_TIME
+Full Stack Developer - Data Science,Guidehouse,District of Columbia,Washington,58890,72830,3.2,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer,Attain,Virginia,Mc Lean,60583,105478,2.7,2020-04-26,2020-06-06,FULL_TIME
+Data Science Specialist,The Aerospace Corporation,Virginia,Chantilly,81521,134646,3.8,2020-05-01,2020-06-06,FULL_TIME
+Big Data Engineer Principal,SAIC,Virginia,Springfield,99648,119838,3.6,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer,The Aerospace Corporation,Virginia,Chantilly,100468,117042,3.8,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer,eTek IT Service,Virginia,McLean,54279,104141,3.6,2020-04-25,2020-06-06,PART_TIME
+Data Engineer,Qbase,Virginia,Reston,61190,115522,3.8,2020-05-05,2020-06-06,FULL_TIME
+NOA2012: Support Scientist Ocean Data Assimilation,"I.M. Systems Group, Inc.",Maryland,College Park,40261,91137,3.5,2020-04-29,2020-06-06,FULL_TIME
+NOA2013: Aerosol Data Assimilation,I.M. Systems Group,Maryland,College Park,27842,56870,3.5,2020-05-07,2020-06-06,FULL_TIME
+Big Data Engineer/Developer,MSRCosmos,Virginia,McLean,66234,125457,3.8,2020-05-02,2020-06-06,FULL_TIME
+Lead Data Engineer - Risk & Anti-Money Laundering Technology,Capital One,Virginia,McLean,111608,125262,3.8,2020-04-24,2020-06-06,FULL_TIME
+Data Analytics Specialist,Cybermedia Technologies,Virginia,Springfield,49560,77573,3.7,2020-04-28,2020-06-06,FULL_TIME
+"Data Engineer, Lead",Booz Allen Hamilton Inc.,Virginia,Arlington,95665,165443,3.7,2020-05-02,2020-06-06,FULL_TIME
+Big Data Engineer,Peraton,Virginia,Chantilly,84051,97443,3.4,2020-05-01,2020-06-06,FULL_TIME
+Data Science Specialist,Applied Research Associates,Virginia,Alexandria,89466,108735,3.7,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist SME,Berico Technologies,Virginia,Herndon,96728,158652,3.5,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer / Analytics,Blackspoke,Virginia,Springfield,99793,117643,5.0,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer,Jacobs,Virginia,Vienna,70353,77647,3.6,2020-04-30,2020-06-06,FULL_TIME
+Big Data- Software Developer-Mid level,"Clarity Innovation, LLC",Maryland,College Park,84424,120012,5.0,2020-04-25,2020-06-06,FULL_TIME
+"Principal Program Manager, Finance Operations Data Analytics",Amazon,Virginia,Arlington,50061,102101,3.9,2020-05-06,2020-06-06,FULL_TIME
+SAS/SQL Data Analyst,"Panum Group, LLC",Virginia,Alexandria,54955,101171,4.1,2020-05-07,2020-06-06,FULL_TIME
+Data & Analytics Consultant (DC),SEI,District of Columbia,Washington,45968,71211,3.9,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer,General Dynamics Mission Systems,Virginia,Chantilly,63209,111783,3.5,2020-05-06,2020-06-06,FULL_TIME
+"Computer Scientist, AST, Data Analysis",NASA,Maryland,Greenbelt,92001,109660,4.4,2020-04-30,2020-06-06,FULL_TIME
+"Data Engineer-Arlington, VA","DirectViz Solutions, LLC",Virginia,Arlington,83940,101403,3.1,2020-04-30,2020-06-06,FULL_TIME
+Data Engineer,ICF,Virginia,Fairfax,93074,111044,3.5,2020-04-24,2020-06-06,FULL_TIME
+Business Intelligence / Data Engineer,Amazon,Virginia,Herndon,67038,84623,3.9,2020-05-06,2020-06-06,FULL_TIME
+ISR Data Engineer,Redhorse Corporation,Virginia,Arlington,66318,75858,3.6,2020-05-02,2020-06-06,FULL_TIME
+AWS Data Engineer,Infinitive Inc,Virginia,Arlington,82829,93918,3.4,2020-04-29,2020-06-06,FULL_TIME
+Software Data Engineer,Inovalon,Maryland,Bowie,64474,121434,2.5,2020-05-02,2020-06-06,FULL_TIME
+Senior Data Science and AI/ML Specialist - US CIS R-SYNC (0919F),Redhorse Corporation,Virginia,Arlington,74843,86678,3.6,2020-05-01,2020-06-06,FULL_TIME
+Senior Data Engineer,Cerebra Consulting Inc,Virginia,McLean,91750,164081,4.6,2020-05-02,2020-06-06,FULL_TIME
+Support Scientist-Ocean Data Assimilation,IM Systems Group,Maryland,College Park,40261,91137,3.5,2020-05-05,2020-06-06,FULL_TIME
+Coupled Data Assimilation Developer,"Science Systems and Applications, Inc",Maryland,Greenbelt,45423,83810,3.9,2020-05-01,2020-06-06,FULL_TIME
+Security Data Engineer,BlueVoyant,Maryland,College Park,92357,157230,4.2,2020-04-30,2020-06-06,FULL_TIME
+Cloud Data Engineer,Axiologic Solutions,Virginia,Alexandria,108661,121684,4.4,2020-05-05,2020-06-06,FULL_TIME
+Data Scientist (SME LEAD),Perspecta,Maryland,Fort Meade,68055,113450,3.0,2020-04-28,2020-06-06,FULL_TIME
+NOA2010: Ocean Data Assimilation,I.M. Systems Group,Maryland,College Park,50633,87305,3.5,2020-05-01,2020-06-06,FULL_TIME
+Aerosol Data Assimilation,IMSG/NOAA,Maryland,College Park,27842,56870,3.5,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer - TS/SCI with Polygraph Required,LMI,Virginia,McLean,57935,105260,3.9,2020-05-06,2020-06-06,FULL_TIME
+Federal - Data Engineer - Senior,Solekai Systems Corp,Virginia,Arlington,98506,180292,4.2,2020-04-25,2020-06-06,FULL_TIME
+Cloud Data Engineer,Pandera Systems,Virginia,Arlington,102231,119306,4.3,2020-04-28,2020-06-06,FULL_TIME
+DI Data Science Lead,Leidos,Virginia,McLean,118338,144117,3.4,2020-05-06,2020-06-06,FULL_TIME
+Azure Data Engineer,Definitive Logic,Virginia,Arlington,76153,143773,4.4,2020-04-29,2020-06-06,FULL_TIME
+Big Data Engineer,Huntington Ingalls Industries,Virginia,Springfield,68248,117211,3.7,2020-04-29,2020-06-06,FULL_TIME
+Data Scientist SME,NCI Information Systems Inc.,Virginia,Reston,88809,145826,3.4,2020-04-25,2020-06-06,FULL_TIME
+"Data Engineer, Senior",Booz Allen Hamilton Inc.,Virginia,Arlington,100967,123589,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Architect,Johns Hopkins University Applied Physics Laboratory,Maryland,Laurel,131343,162377,4.5,2020-05-01,2020-06-06,FULL_TIME
+Senior BIG Data Developer / BIG Data Engineer,Zillion Technologies,Virginia,Vienna,45568,86788,3.4,2020-04-25,2020-06-06,FULL_TIME
+Senior Manager Data Science- Model Risk,Capital One,Virginia,McLean,63010,126693,3.8,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer (Apache Spark),Acuity INC,Virginia,Reston,90748,115938,3.7,2020-05-07,2020-06-06,FULL_TIME
+Sr Manager - Data Acquisition & Partnerships,ID.me,Virginia,McLean,44696,96160,3.3,2020-05-03,2020-06-06,FULL_TIME
+Master Data Engineer - Card Technology,Capital One,Virginia,McLean,96672,107942,3.8,2020-05-03,2020-06-06,FULL_TIME
+Senior Data Engineer - Risk & Anti-Money Laundering Technology,Capital One,Virginia,McLean,111787,123290,3.8,2020-05-02,2020-06-06,FULL_TIME
+Big Data Engineer,E3 Federal Solutions,Virginia,Reston,82829,93918,4.5,2020-05-01,2020-06-06,FULL_TIME
+Senior Data Engineer - Python | Spark (CreditWise),Capital One,Virginia,McLean,111787,123290,3.8,2020-05-02,2020-06-06,FULL_TIME
+Lead Data Engineer,Capital One,Virginia,McLean,111608,125262,3.8,2020-05-05,2020-06-06,FULL_TIME
+Software (Data) Engineer,SOS International LLC,Virginia,Vienna,85130,151575,3.2,2020-05-01,2020-06-06,FULL_TIME
+Data Literacy Curriculum Developer,DevTech Systems,Virginia,Arlington,43104,76040,2.9,2020-04-28,2020-06-06,FULL_TIME
+Technical Lead - Data Engineer,BAE Systems USA,Virginia,McLean,71798,123629,3.6,2020-04-28,2020-06-06,FULL_TIME
+Data Scientist (Mid-Level),Nyla Technology Solutions,Maryland,Annapolis Junction,65032,104609,5.0,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer - Generalist,DSC Resources.com,Virginia,Arlington,83949,100884,0.0,2020-04-25,2020-06-06,FULL_TIME
+Data Engineer - Informatica SME,22nd Century Technologies,Virginia,McLean,85715,96664,3.7,2020-04-25,2020-06-06,FULL_TIME
+Big Data Engineer,General Dynamics Information Technology,Maryland,Fort Meade,92341,105614,3.4,2020-05-07,2020-06-06,FULL_TIME
+Lead Data Engineer- with TS/SCI security clearance,Simplion Technologies Inc,Virginia,Chantilly,95715,173187,3.8,2020-05-05,2020-06-06,FULL_TIME
+Data Engineer Senior/Expert - TS/SCI,GRIMM,Virginia,Vienna,122701,154809,5.0,2020-04-28,2020-06-06,FULL_TIME
+Data Science Instructor (SME) - TS/SCI with Polygraph,LMI,Virginia,McLean,96845,155898,3.9,2020-04-24,2020-06-06,FULL_TIME
+"Data Engineer, Junior",Booz Allen Hamilton Inc.,Virginia,Herndon,73665,122482,3.7,2020-05-07,2020-06-06,FULL_TIME
+Data Engineer & Analysis Liaison,STS Aviation,Virginia,Falls Church,52451,97251,3.0,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer (Senior) - TS/SCI with Polygraph,LMI,Virginia,McLean,79713,142180,3.9,2020-04-24,2020-06-06,FULL_TIME
+Data Architect,Karsun Solutions LLC,Virginia,Herndon,137143,153226,3.4,2020-05-02,2020-06-06,FULL_TIME
+Big Data Engineer,ALEX - Alternative Experts,Virginia,Springfield,65652,74681,4.0,2020-04-29,2020-06-06,FULL_TIME
+Data Visualization Developer - TS/SCI with CI Polygraph Required,LMI,Maryland,Bethesda,70408,117126,3.9,2020-04-29,2020-06-06,FULL_TIME
+Big Data Engineer,Data Works,Virginia,Reston,76811,100454,5.0,2020-04-24,2020-06-06,FULL_TIME
+SE&I Data Warehouse Engineer,BAE Systems USA,Virginia,Sterling,91402,115466,3.6,2020-05-01,2020-06-06,FULL_TIME
+"Data Modeler, Senior",Booz Allen Hamilton Inc.,Virginia,Springfield,90454,151998,3.7,2020-04-28,2020-06-06,FULL_TIME
+123 - Big Data Engineer,Connvertex Technologies,Virginia,Alexandria,108661,121684,3.7,2020-04-29,2020-06-06,FULL_TIME
+Data Platform Engineering Manager,Gannett,Virginia,McLean,59246,102681,3.0,2020-04-25,2020-06-06,FULL_TIME
+Data Engineer/Architect,Booz Allen Hamilton Inc.,Virginia,McLean,74916,128610,3.7,2020-04-24,2020-06-06,FULL_TIME
+"Program Manager, Research Data Repository and Neurosciences",Gryphon Technologies,Maryland,Rockville,51477,119471,3.2,2020-05-01,2020-06-06,FULL_TIME
+Data Analytics Engineer,The Aerospace Corporation,Virginia,Chantilly,67260,114066,3.8,2020-05-01,2020-06-06,FULL_TIME
+Data Engineer - Batch Capability Specialist,Volant Associates,Virginia,Chantilly,82442,108464,4.5,2020-04-30,2020-06-06,FULL_TIME
+Sr. Big Data Engineer,Metistream,Virginia,Vienna,106840,122808,0.0,2020-04-28,2020-06-06,FULL_TIME
+Medical Data Review Manager RRG,IQVIA,Maryland,Rockville,77496,103937,3.6,2020-04-29,2020-06-06,FULL_TIME
+Big Data GIS Technician,BAE Systems USA,Virginia,Sterling,29516,45814,3.6,2020-05-01,2020-06-06,FULL_TIME
+"Data Engineer, Associate Principal",Alion Science &amp;amp; Technology,Virginia,Vienna,73494,82162,3.7,2020-04-26,2020-06-06,FULL_TIME
+"Data Engineer, Sr",Alion Science &amp;amp; Technology,Virginia,Vienna,97068,111663,3.7,2020-04-26,2020-06-06,FULL_TIME
+Data Engineer - Defense & Intelligence,Elder Research,Maryland,Fort Meade,55223,108855,3.8,2020-05-06,2020-06-06,FULL_TIME
+Systems Engineer (Data Science) - TS/SCI with Poly Required,LMI,Virginia,Herndon,59390,121068,3.9,2020-05-01,2020-06-06,FULL_TIME
+Big Data Engineer(10+years Experience Mandatory),Valsatech Corp,Maryland,Rockville,49942,95289,3.1,2020-05-03,2020-06-06,FULL_TIME
+Data Engineer (Data Capture) - Clearance Required,LMI,Virginia,Fort Belvoir,58494,111198,3.9,2020-04-28,2020-06-06,FULL_TIME
+Data Engineer active TS/SCI,LMI,Virginia,Fort Belvoir,74618,125784,3.9,2020-04-28,2020-06-06,FULL_TIME
+Sr. Manager Data Engineer,Capital One,Virginia,McLean,110852,124507,3.8,2020-04-24,2020-06-06,FULL_TIME
+Lead Data Engineer with Security Clearance,"Moseley Technical Services, Inc.",Virginia,Chantilly,71750,125877,4.3,2020-04-29,2020-06-06,FULL_TIME
+Data Engineer - Card Technology,Capital One,Virginia,McLean,96672,107942,3.8,2020-05-03,2020-06-06,FULL_TIME
+Data Science Research Associate,Battelle,Virginia,Chantilly,62031,69004,3.0,2020-05-05,2020-06-06,FULL_TIME
+User Interface Developer Data Lake - TS/SCI with Poly,Leidos,Virginia,Reston,66139,119419,3.4,2020-04-25,2020-06-06,FULL_TIME
+Data Visualization Designer,Capital One,Virginia,Vienna,62030,79490,3.8,2020-04-30,2020-06-06,FULL_TIME
+Data Governance Subject Matter Expert,LMI,Virginia,Springfield,112682,233609,3.9,2020-04-29,2020-06-06,FULL_TIME
+Data Format and Standards Engineer,The Aerospace Corporation,Virginia,Chantilly,62762,133644,3.8,2020-04-30,2020-06-06,FULL_TIME
+Data Visualization Developer (TS/SCI w/ Poly),LMI,Virginia,Herndon,70408,117126,3.9,2020-04-30,2020-06-06,FULL_TIME
+Data Science Instructor,Noblis,Virginia,Chantilly,75835,101374,4.0,2020-04-30,2020-06-06,FULL_TIME
+Lead Data Engineer,Denken Solutions,Virginia,Chantilly,93470,116335,4.4,2020-05-06,2020-06-06,FULL_TIME
+Big Data Engineer,Perspecta,Maryland,Fort Meade,86531,91521,3.0,2020-04-28,2020-06-06,FULL_TIME
+Director of Digital Data & Analytics Architecture,MAXIMUS,Virginia,Reston,91864,140538,2.9,2020-04-30,2020-06-06,FULL_TIME
+Data Analyst (Expert) TS/SCI with poly,Leidos,Virginia,Herndon,55691,72574,3.4,2020-04-28,2020-06-06,FULL_TIME
+"Data Science Director | MD - Maryland, UK - Cambridge, SE - Gothenburg",HopHR,Maryland,Gaithersburg,179685,204079,0.0,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer III,Reed Business Information,Virginia,Reston,112723,123341,3.7,2020-04-25,2020-06-06,FULL_TIME
+Lead Data Engineer,Moseley Technical Services,Virginia,Chantilly,71750,125877,4.3,2020-04-29,2020-06-06,FULL_TIME
+Software Engineer/Data Engineer,BlueVoyant,Maryland,College Park,86739,103675,4.2,2020-04-30,2020-06-06,FULL_TIME
+Enterprise Data Center Network Engineer,The Aerospace Corporation,Virginia,Chantilly,78557,221319,3.8,2020-04-24,2020-06-06,FULL_TIME
+Data Warehouse Engineer,BAE Systems USA,Virginia,Sterling,98142,126532,3.6,2020-05-01,2020-06-06,FULL_TIME
+Data Scientist Lead with Security Clearance,Booz Allen Hamilton,District of Columbia,Washington,96151,159959,3.7,2020-04-29,2020-06-06,FULL_TIME
+"Data Scientist, Mid with Security Clearance",Booz Allen Hamilton,District of Columbia,Washington,54297,96539,3.7,2020-05-02,2020-06-06,FULL_TIME
+Data Scientist with Security Clearance,Booz Allen Hamilton,District of Columbia,Washington,54297,96539,3.7,2020-04-29,2020-06-06,FULL_TIME
+"Data Scientist, Lead with Security Clearance",Booz Allen Hamilton,Virginia,Arlington,96151,159959,3.7,2020-05-06,2020-06-06,FULL_TIME
+"Data Scientist, Senior with Security Clearance",Booz Allen Hamilton,Virginia,Arlington,89104,149295,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Science and Machine Learning Engineer,Booz Allen Hamilton Inc.,District of Columbia,Washington,59894,108894,3.7,2020-05-01,2020-06-06,FULL_TIME
+Data Science and Machine Learning Engineer with Security Clearance,Booz Allen Hamilton,District of Columbia,Washington,74364,132506,3.7,2020-04-28,2020-06-06,FULL_TIME
+"Data Engineer, Lead with Security Clearance",Booz Allen Hamilton,Virginia,Arlington,95665,165443,3.7,2020-05-02,2020-06-06,FULL_TIME
+"Data Analyst, Mid with Security Clearance",Booz Allen Hamilton,Virginia,Arlington,51373,92403,3.7,2020-05-06,2020-06-06,FULL_TIME
+Data Engineer/Architect with Security Clearance,Booz Allen Hamilton,Virginia,McLean,74916,128610,3.7,2020-04-24,2020-06-06,FULL_TIME
+Data Engineer with Security Clearance,Booz Allen Hamilton,Virginia,Arlington,58824,112227,3.7,2020-05-02,2020-06-06,FULL_TIME
+"Data Engineer, Mid with Security Clearance",Booz Allen Hamilton,Virginia,Herndon,58824,112227,3.7,2020-05-07,2020-06-06,FULL_TIME
+"Data Modeler, Senior with Security Clearance",Booz Allen Hamilton,Virginia,Springfield,90454,151998,3.7,2020-04-28,2020-06-06,FULL_TIME
+"Data Engineer, Senior with Security Clearance",Booz Allen Hamilton,Virginia,Herndon,91443,155868,3.7,2020-05-02,2020-06-06,FULL_TIME
